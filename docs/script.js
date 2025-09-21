@@ -70,6 +70,7 @@ class GamesDatabase {
             releaseDate: el.dataset.releaseDate || ''
         }));
         this.filteredGames = [...this.games];
+        this.updateResultsCount();
     }
 
     filterGames() {
@@ -183,69 +184,6 @@ class GamesDatabase {
 
         gameCards.forEach(card => observer.observe(card));
     }
-
-    // Utility functions
-    formatNumber(num) {
-        return num.toLocaleString();
-    }
-
-    formatDate(dateString) {
-        try {
-            return new Date(dateString).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'short',
-                day: 'numeric'
-            });
-        } catch {
-            return dateString;
-        }
-    }
-
-    // Export functionality
-    exportData(format = 'json') {
-        const data = this.filteredGames.map(game => ({
-            title: game.element.dataset.title,
-            developer: game.element.dataset.developer,
-            publisher: game.element.dataset.publisher,
-            console: game.element.dataset.console,
-            releaseDate: game.element.dataset.releaseDate
-        }));
-
-        if (format === 'json') {
-            const blob = new Blob([JSON.stringify(data, null, 2)], {
-                type: 'application/json'
-            });
-            this.downloadFile(blob, 'games-data.json');
-        } else if (format === 'csv') {
-            const csv = this.convertToCSV(data);
-            const blob = new Blob([csv], { type: 'text/csv' });
-            this.downloadFile(blob, 'games-data.csv');
-        }
-    }
-
-    convertToCSV(data) {
-        const headers = ['Title', 'Developer', 'Publisher', 'Console', 'Release Date'];
-        const rows = data.map(game => [
-            `"${game.title}"`,
-            `"${game.developer}"`,
-            `"${game.publisher}"`,
-            `"${game.console}"`,
-            `"${game.releaseDate}"`
-        ]);
-        
-        return [headers, ...rows].map(row => row.join(',')).join('\n');
-    }
-
-    downloadFile(blob, filename) {
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = filename;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-    }
 }
 
 // Initialize when DOM is loaded
@@ -261,35 +199,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     e.preventDefault();
                     document.getElementById('gameSearch')?.focus();
                     break;
-                case 'e':
-                case 'E':
-                    e.preventDefault();
-                    window.gamesDB.exportData('json');
-                    break;
             }
         }
     });
 });
-
-// Utility functions for theme switching (future enhancement)
-function toggleTheme() {
-    document.body.classList.toggle('light-theme');
-    localStorage.setItem('theme', document.body.classList.contains('light-theme') ? 'light' : 'dark');
-}
-
-// Statistics animation
-function animateNumber(element, target, duration = 1000) {
-    const start = 0;
-    const increment = target / (duration / 16);
-    let current = start;
-    
-    const timer = setInterval(() => {
-        current += increment;
-        if (current >= target) {
-            element.textContent = target.toLocaleString();
-            clearInterval(timer);
-        } else {
-            element.textContent = Math.floor(current).toLocaleString();
-        }
-    }, 16);
-}

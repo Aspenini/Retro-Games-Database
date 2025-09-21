@@ -181,20 +181,635 @@ class ProgressTracker:
         print("🚀 Keep up the great work building this open source gaming database!")
     
     def ensure_site_assets(self):
-        """Ensure CSS and JS files exist in site folder"""
-        site_dir = 'site'
+        """Ensure CSS and JS files exist in docs folder, create if missing"""
+        site_dir = 'docs'
         if not os.path.exists(site_dir):
             os.makedirs(site_dir)
+            print(f"📁 Created {site_dir} directory")
         
-        # CSS file
+        # Create CSS file if missing
         css_path = os.path.join(site_dir, 'style.css')
         if not os.path.exists(css_path):
-            print("⚠️  style.css not found - please ensure it exists in /site folder")
+            print("🎨 Generating style.css...")
+            with open(css_path, 'w', encoding='utf-8') as f:
+                f.write(self.get_css_content())
         
-        # JS file  
+        # Create JS file if missing
         js_path = os.path.join(site_dir, 'script.js')
         if not os.path.exists(js_path):
-            print("⚠️  script.js not found - please ensure it exists in /site folder")
+            print("⚡ Generating script.js...")
+            with open(js_path, 'w', encoding='utf-8') as f:
+                f.write(self.get_js_content())
+    
+    def get_css_content(self):
+        """Return the complete CSS content"""
+        return '''/* Retro Games Database - Modern Design */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #2563eb;
+    --secondary-color: #7c3aed;
+    --accent-color: #f59e0b;
+    --success-color: #10b981;
+    --warning-color: #f59e0b;
+    --danger-color: #ef4444;
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-primary: #f8fafc;
+    --text-secondary: #cbd5e1;
+    --border-color: #334155;
+    --gradient: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg-color);
+    color: var(--text-primary);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 2rem 0;
+    background: var(--gradient);
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(37, 99, 235, 0.3);
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(45deg, #fff, #e2e8f0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.last-updated {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+/* Stats Grid */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.stat-card {
+    background: var(--card-bg);
+    padding: 2rem;
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Console Cards */
+.console-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.console-card {
+    background: var(--card-bg);
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.console-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.console-header {
+    padding: 1.5rem;
+    background: var(--gradient);
+    position: relative;
+}
+
+.console-name {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.console-meta {
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.console-body {
+    padding: 1.5rem;
+}
+
+.progress-section {
+    margin-bottom: 1.5rem;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 12px;
+    background: #374151;
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 0.5rem 0;
+}
+
+.progress-fill {
+    height: 100%;
+    background: var(--gradient);
+    border-radius: 6px;
+    transition: width 0.8s ease;
+    position: relative;
+}
+
+.progress-fill::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    animation: shimmer 2s infinite;
+}
+
+@keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+.progress-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.status-badge {
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.status-complete { background: var(--success-color); color: white; }
+.status-nearly { background: var(--warning-color); color: white; }
+.status-progress { background: var(--primary-color); color: white; }
+.status-started { background: var(--danger-color); color: white; }
+.status-minimal { background: #6b7280; color: white; }
+.status-none { background: #374151; color: white; }
+
+/* Games Section */
+.games-section {
+    margin-top: 3rem;
+}
+
+.section-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.search-controls {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.search-input {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    min-width: 300px;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.filter-select {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+/* Games Grid */
+.games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.game-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 1rem;
+    transition: all 0.3s ease;
+}
+
+.game-card:hover {
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.game-title {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.game-meta {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.4;
+}
+
+.game-meta strong {
+    color: var(--text-primary);
+}
+
+/* Missing Consoles */
+.missing-consoles {
+    background: var(--card-bg);
+    border-radius: 15px;
+    border: 1px solid var(--border-color);
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.missing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.missing-item {
+    padding: 1rem;
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    border-radius: 8px;
+}
+
+.missing-name {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.missing-info {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+    
+    .header h1 {
+        font-size: 2rem;
+    }
+    
+    .stats-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    
+    .console-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .search-controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .search-input {
+        min-width: unset;
+    }
+}
+
+/* Loading Animation */
+.loading {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid var(--border-color);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Utilities */
+.text-center { text-align: center; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+
+.hidden { display: none !important; }
+.fade-in { animation: fadeIn 0.5s ease-in; }
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    margin-top: 4rem;
+    padding: 2rem;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-secondary);
+}
+
+.footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}'''
+    
+    def get_js_content(self):
+        """Return the complete JavaScript content"""
+        return '''// Retro Games Database - Interactive Features
+class GamesDatabase {
+    constructor() {
+        this.games = [];
+        this.filteredGames = [];
+        this.currentConsole = 'all';
+        this.searchTerm = '';
+        this.init();
+    }
+
+    init() {
+        this.setupEventListeners();
+        this.loadGames();
+        this.animateProgressBars();
+        this.setupLazyLoading();
+    }
+
+    setupEventListeners() {
+        // Search functionality
+        const searchInput = document.getElementById('gameSearch');
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => {
+                this.searchTerm = e.target.value.toLowerCase();
+                this.filterGames();
+            });
+        }
+
+        // Console filter
+        const consoleFilter = document.getElementById('consoleFilter');
+        if (consoleFilter) {
+            consoleFilter.addEventListener('change', (e) => {
+                this.currentConsole = e.target.value;
+                this.filterGames();
+            });
+        }
+
+        // Sort options
+        const sortSelect = document.getElementById('sortSelect');
+        if (sortSelect) {
+            sortSelect.addEventListener('change', (e) => {
+                this.sortGames(e.target.value);
+            });
+        }
+
+        // Smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    }
+
+    loadGames() {
+        // Games are embedded in HTML by Python script
+        const gameElements = document.querySelectorAll('.game-card');
+        this.games = Array.from(gameElements).map(el => ({
+            element: el,
+            title: el.dataset.title?.toLowerCase() || '',
+            developer: el.dataset.developer?.toLowerCase() || '',
+            publisher: el.dataset.publisher?.toLowerCase() || '',
+            console: el.dataset.console?.toLowerCase() || '',
+            year: el.dataset.year || '',
+            releaseDate: el.dataset.releaseDate || ''
+        }));
+        this.filteredGames = [...this.games];
+        this.updateResultsCount();
+    }
+
+    filterGames() {
+        this.filteredGames = this.games.filter(game => {
+            const matchesSearch = !this.searchTerm || 
+                game.title.includes(this.searchTerm) ||
+                game.developer.includes(this.searchTerm) ||
+                game.publisher.includes(this.searchTerm);
+            
+            const matchesConsole = this.currentConsole === 'all' || 
+                game.console === this.currentConsole;
+
+            return matchesSearch && matchesConsole;
+        });
+
+        this.displayGames();
+        this.updateResultsCount();
+    }
+
+    displayGames() {
+        this.games.forEach(game => {
+            const isVisible = this.filteredGames.includes(game);
+            game.element.style.display = isVisible ? 'block' : 'none';
+            
+            if (isVisible) {
+                game.element.classList.add('fade-in');
+            }
+        });
+    }
+
+    sortGames(sortBy) {
+        const gamesContainer = document.querySelector('.games-grid');
+        if (!gamesContainer) return;
+
+        const sortedElements = this.filteredGames.map(game => game.element).sort((a, b) => {
+            switch (sortBy) {
+                case 'title':
+                    return a.dataset.title.localeCompare(b.dataset.title);
+                case 'developer':
+                    return a.dataset.developer.localeCompare(b.dataset.developer);
+                case 'publisher':
+                    return a.dataset.publisher.localeCompare(b.dataset.publisher);
+                case 'year':
+                    return new Date(a.dataset.releaseDate) - new Date(b.dataset.releaseDate);
+                case 'year-desc':
+                    return new Date(b.dataset.releaseDate) - new Date(a.dataset.releaseDate);
+                default:
+                    return 0;
+            }
+        });
+
+        // Re-append elements in sorted order
+        sortedElements.forEach(element => {
+            gamesContainer.appendChild(element);
+        });
+    }
+
+    updateResultsCount() {
+        const counter = document.getElementById('resultsCount');
+        if (counter) {
+            const count = this.filteredGames.length;
+            const total = this.games.length;
+            counter.textContent = `Showing ${count.toLocaleString()} of ${total.toLocaleString()} games`;
+        }
+    }
+
+    animateProgressBars() {
+        const progressBars = document.querySelectorAll('.progress-fill');
+        
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const bar = entry.target;
+                    const percentage = bar.dataset.percentage;
+                    
+                    // Animate from 0 to target percentage
+                    let current = 0;
+                    const increment = percentage / 50; // 50 frames
+                    
+                    const animate = () => {
+                        current += increment;
+                        if (current <= percentage) {
+                            bar.style.width = current + '%';
+                            requestAnimationFrame(animate);
+                        } else {
+                            bar.style.width = percentage + '%';
+                        }
+                    };
+                    
+                    setTimeout(animate, 200); // Delay for stagger effect
+                    observer.unobserve(bar);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        progressBars.forEach(bar => observer.observe(bar));
+    }
+
+    setupLazyLoading() {
+        // Lazy load game cards for performance
+        const gameCards = document.querySelectorAll('.game-card');
+        
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('fade-in');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        gameCards.forEach(card => observer.observe(card));
+    }
+}
+
+// Initialize when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    window.gamesDB = new GamesDatabase();
+    
+    // Add keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+        if (e.ctrlKey || e.metaKey) {
+            switch (e.key) {
+                case 'f':
+                case 'F':
+                    e.preventDefault();
+                    document.getElementById('gameSearch')?.focus();
+                    break;
+            }
+        }
+    });
+});'''
     
     def generate_html_site(self):
         """Generate complete HTML site with all data embedded"""
@@ -304,7 +919,7 @@ class ProgressTracker:
 </html>"""
 
         # Write HTML file
-        html_path = os.path.join('site', 'index.html')
+        html_path = os.path.join('docs', 'index.html')
         with open(html_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
         
