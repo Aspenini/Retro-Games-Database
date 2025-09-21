@@ -1,0 +1,577 @@
+{
+  "console": "Neo Geo Pocket Color",
+  "total_games": 95,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Biomotor Unitron",
+      "developer": "Yumekobo",
+      "publisher": "SNK",
+      "release_date": "1999-08-26"
+    },
+    {
+      "title": "Card Fighters' Clash",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-10-14"
+    },
+    {
+      "title": "Card Fighters 2 Expand Edition",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2001-01-18"
+    },
+    {
+      "title": "Cotton: Fantastic Night Dreams",
+      "developer": "Success",
+      "publisher": "Success",
+      "release_date": "2000-08-03"
+    },
+    {
+      "title": "Crush Roller",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-09"
+    },
+    {
+      "title": "Dark Arms: Beast Buster 1999",
+      "developer": "Noise Factory",
+      "publisher": "SNK",
+      "release_date": "1999-12-16"
+    },
+    {
+      "title": "Delta Warp",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-07-27"
+    },
+    {
+      "title": "Dive Alert: Becky's Version",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-11-25"
+    },
+    {
+      "title": "Dive Alert: Matt's Version",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-11-25"
+    },
+    {
+      "title": "Evolution: Eternal Dungeons",
+      "developer": "Sting Entertainment",
+      "publisher": "Entertainment Software Publishing",
+      "release_date": "2000-03-30"
+    },
+    {
+      "title": "Fatal Fury: First Contact",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-05-27"
+    },
+    {
+      "title": "Fatal Fury: Wild Ambition",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-01-28"
+    },
+    {
+      "title": "Faselei!",
+      "developer": "Sacnoth",
+      "publisher": "SNK",
+      "release_date": "1999-10-14"
+    },
+    {
+      "title": "Fight Fever",
+      "developer": "Viccom",
+      "publisher": "SNK",
+      "release_date": "2000-04-27"
+    },
+    {
+      "title": "Football Frenzy",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-01-27"
+    },
+    {
+      "title": "Gals Fighters",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Ganbare Neo Poke-kun",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "King of Fighters R-1",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1998-09-19"
+    },
+    {
+      "title": "King of Fighters R-2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-03-19"
+    },
+    {
+      "title": "Last Blade: Beyond the Destiny",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-01-27"
+    },
+    {
+      "title": "Magical Drop Pocket",
+      "developer": "Data East",
+      "publisher": "Data East",
+      "release_date": "1999-10-14"
+    },
+    {
+      "title": "SNK vs. Capcom: The Match of the Millennium",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-11-30"
+    },
+    {
+      "title": "Metal Slug: 1st Mission",
+      "developer": "Ukiyotei",
+      "publisher": "SNK",
+      "release_date": "1999-05-27"
+    },
+    {
+      "title": "Metal Slug: 2nd Mission",
+      "developer": "Ukiyotei",
+      "publisher": "SNK",
+      "release_date": "2000-03-16"
+    },
+    {
+      "title": "Melon Chan's Growth Diary",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-05-25"
+    },
+    {
+      "title": "Neo Cherry Master Color",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-19"
+    },
+    {
+      "title": "Neo Cup '98",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1998-05-28"
+    },
+    {
+      "title": "Neo Cup '98 Plus Color",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-03-04"
+    },
+    {
+      "title": "Neo Mystery Bonus",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-11-22"
+    },
+    {
+      "title": "Neo Turf Masters",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-19"
+    },
+    {
+      "title": "Ogre Battle: Legend of the Zenobia Prince",
+      "developer": "Quest",
+      "publisher": "SNK",
+      "release_date": "2000-12-14"
+    },
+    {
+      "title": "Pac-Man",
+      "developer": "Namco",
+      "publisher": "SNK",
+      "release_date": "1999-08-19"
+    },
+    {
+      "title": "Picture Puzzle",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-05-27"
+    },
+    {
+      "title": "Pocket Tennis Color",
+      "developer": "Yumekobo",
+      "publisher": "SNK",
+      "release_date": "1999-02-11"
+    },
+    {
+      "title": "Puzzle Bobble Mini",
+      "developer": "Taito",
+      "publisher": "SNK",
+      "release_date": "1999-02-25"
+    },
+    {
+      "title": "Puzzle Link",
+      "developer": "Yumekobo",
+      "publisher": "SNK",
+      "release_date": "1999-07-29"
+    },
+    {
+      "title": "Puzzle Link 2",
+      "developer": "Yumekobo",
+      "publisher": "SNK",
+      "release_date": "2000-11-22"
+    },
+    {
+      "title": "Rockman: Battle & Fighters",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "2000-03-30"
+    },
+    {
+      "title": "Samurai Shodown!",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-06-24"
+    },
+    {
+      "title": "Samurai Shodown! 2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-09-16"
+    },
+    {
+      "title": "Sonic the Hedgehog Pocket Adventure",
+      "developer": "Sonic Team",
+      "publisher": "SNK",
+      "release_date": "1999-12-16"
+    },
+    {
+      "title": "SNK Gals' Fighters",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Baseball Stars",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-07-29"
+    },
+    {
+      "title": "Big Bang Pro Wrestling",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-04-27"
+    },
+    {
+      "title": "Bust-A-Move Pocket",
+      "developer": "Taito",
+      "publisher": "SNK",
+      "release_date": "1999-02-25"
+    },
+    {
+      "title": "Cool Cool Jam",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "Densetsu no Ogre Battle Gaiden: Zenobia no Ouji",
+      "developer": "Quest",
+      "publisher": "SNK",
+      "release_date": "2000-12-14"
+    },
+    {
+      "title": "Dokodemo Mahjong",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-07-22"
+    },
+    {
+      "title": "Duel Masters: Kaijudo Showdown",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2004-06-17"
+    },
+    {
+      "title": "Hanafuda",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-09-28"
+    },
+    {
+      "title": "Koi Koi Mahjong",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-03-16"
+    },
+    {
+      "title": "Mahjong",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-10-28"
+    },
+    {
+      "title": "Neo Geo Pocket Color Selection Vol. 1",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2021-03-17"
+    },
+    {
+      "title": "Pachinko Hisshou Gaide: Data no Ousama",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-12-07"
+    },
+    {
+      "title": "Pocket Reversi",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-05"
+    },
+    {
+      "title": "Pro Yakyuu Team o Tsukurou!",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-09-28"
+    },
+    {
+      "title": "Renketsu Puzzle Tsunagete Pon! Color",
+      "developer": "Yumekobo",
+      "publisher": "SNK",
+      "release_date": "2000-08-31"
+    },
+    {
+      "title": "Sengoku Denshou",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-11-25"
+    },
+    {
+      "title": "Shougi no Tatsujin",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-02-24"
+    },
+    {
+      "title": "SNK vs. Capcom: Card Fighters' Clash",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-10-14"
+    },
+    {
+      "title": "Soukoban",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-09-23"
+    },
+    {
+      "title": "The King of Fighters: Battle de Paradise",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Astrological Fortune Telling",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-07-27"
+    },
+    {
+      "title": "Bakumatsu Roman: Gekka no Kenshi",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-12-14"
+    },
+    {
+      "title": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "2002-09-19"
+    },
+    {
+      "title": "Dive Alert: Scott's Version",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-11-25"
+    },
+    {
+      "title": "Ganbare Neo Poke-kun: Pokapoka Ikimono Nikki",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "King of Fighters R-1 (Color)",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-03-19"
+    },
+    {
+      "title": "Melon Chan's Growth Diary 2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2001-03-15"
+    },
+    {
+      "title": "Neo Geo Pocket Tennis",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-04-29"
+    },
+    {
+      "title": "Neo21",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-16"
+    },
+    {
+      "title": "Pocket Cooking",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-19"
+    },
+    {
+      "title": "Pocket Love",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Pocket Love 2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-08-31"
+    },
+    {
+      "title": "SNK vs. Capcom: Card Fighter's Clash 2 Expand Edition",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2001-01-18"
+    },
+    {
+      "title": "Dokodemo Hamster",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-09"
+    },
+    {
+      "title": "Infinity Cure",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-10-26"
+    },
+    {
+      "title": "Janshin Densetsu: Quest of Jongmaster",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-10-28"
+    },
+    {
+      "title": "Neogeo Cup '98 Plus",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-03-04"
+    },
+    {
+      "title": "Pocket Love: If...",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2001-02-22"
+    },
+    {
+      "title": "Puyo Pop",
+      "developer": "Compile",
+      "publisher": "SNK",
+      "release_date": "2000-02-10"
+    },
+    {
+      "title": "Samurai Spirits! 2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-09-16"
+    },
+    {
+      "title": "Shanghai Mini",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "SNK Pocket Pro Wrestling",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-04-27"
+    },
+    {
+      "title": "Solitaire FunPak",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-10-14"
+    },
+    {
+      "title": "Super Real Mahjong P7",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-05-25"
+    },
+    {
+      "title": "Tetris",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-05"
+    },
+    {
+      "title": "The Last Blade: Beyond the Destiny",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-01-27"
+    },
+    {
+      "title": "Turf Masters",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-08-19"
+    },
+    {
+      "title": "Dynamite Slugger",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-04-06"
+    },
+    {
+      "title": "Gal's Panic",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Samurai Spirits! Pocket",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-06-24"
+    },
+    {
+      "title": "King of Fighters: Battle de Paradise",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Cool Jam",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "Motto Trump Collection",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "2000-12-07"
+    }
+  ]
+}

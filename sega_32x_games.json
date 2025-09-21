@@ -1,0 +1,247 @@
+{
+  "console": "Sega 32X",
+  "total_games": 40,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "36 Great Holes Starring Fred Couples",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "After Burner Complete",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "BC Racers",
+      "developer": "Core Design",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Blackthorne",
+      "developer": "Blizzard Entertainment",
+      "publisher": "Interplay",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Brutal: Paws of Fury",
+      "developer": "GameTek",
+      "publisher": "GameTek",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Chaotix",
+      "developer": "Sonic Team",
+      "publisher": "Sega",
+      "release_date": "1995-04-20"
+    },
+    {
+      "title": "Cosmic Carnage",
+      "developer": "Almanic",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Darxide",
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Doom",
+      "developer": "id Software",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Fahrenheit",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-06-01"
+    },
+    {
+      "title": "FIFA Soccer '96",
+      "developer": "Extended Play Productions",
+      "publisher": "EA Sports",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Golf Magazine: 36 Great Holes Starring Fred Couples",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Kolibri",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1995-06-01"
+    },
+    {
+      "title": "Knuckles' Chaotix",
+      "developer": "Sonic Team",
+      "publisher": "Sega",
+      "release_date": "1995-04-20"
+    },
+    {
+      "title": "Metal Head",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-02-01"
+    },
+    {
+      "title": "Mortal Kombat II",
+      "developer": "Probe Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Motocross Championship",
+      "developer": "Artech Digital Entertainment",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "NBA Jam Tournament Edition",
+      "developer": "Iguana Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1995-02-01"
+    },
+    {
+      "title": "NFL Quarterback Club",
+      "developer": "Iguana Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Night Trap",
+      "developer": "Digital Pictures",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Pitfall: The Mayan Adventure",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Primal Rage",
+      "developer": "Probe Entertainment",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "RBI Baseball '95",
+      "developer": "Tengen",
+      "publisher": "Tengen",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Sangokushi IV",
+      "developer": "Koei",
+      "publisher": "Koei",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Shadow Squadron",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-05-01"
+    },
+    {
+      "title": "Space Harrier",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Spider-Man: Web of Fire",
+      "developer": "BlueSky Software",
+      "publisher": "Sega",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Star Trek: Starfleet Academy Starship Bridge Simulator",
+      "developer": "Interplay",
+      "publisher": "Interplay",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Star Wars Arcade",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Stellar Assault SS",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Surgical Strike",
+      "developer": "The Code Monkeys",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "T-Mek",
+      "developer": "Midway",
+      "publisher": "Sega",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Tempo",
+      "developer": "Red Company",
+      "publisher": "Sega",
+      "release_date": "1995-03-01"
+    },
+    {
+      "title": "Toughman Contest",
+      "developer": "Visual Concepts",
+      "publisher": "EA Sports",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Virtua Fighter",
+      "developer": "Sega AM2",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Virtua Racing Deluxe",
+      "developer": "Sega AM3",
+      "publisher": "Sega",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Virtual Hamster",
+      "developer": "MicroCabin",
+      "publisher": "MicroCabin",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "WWF Raw",
+      "developer": "Sculptured Software",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "WWF WrestleMania: The Arcade Game",
+      "developer": "Midway",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1995-05-01"
+    },
+    {
+      "title": "Zaxxon's Motherbase 2000",
+      "developer": "CSK Research Institute",
+      "publisher": "Sega",
+      "release_date": "1995-12-01"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "console": "Apple Pippin",
+  "total_games": 18,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "A.D. 2044",
+      "developer": "Takara",
+      "publisher": "Takara",
+      "release_date": "1996-03-29"
+    },
+    {
+      "title": "Anime Freak FX Vol. 1",
+      "developer": "Studio Pierrot",
+      "publisher": "Studio Pierrot",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Anime Freak FX Vol. 2",
+      "developer": "Studio Pierrot",
+      "publisher": "Studio Pierrot",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Anime Freak FX Vol. 3",
+      "developer": "Studio Pierrot",
+      "publisher": "Studio Pierrot",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Anime Freak FX Vol. 4",
+      "developer": "Studio Pierrot",
+      "publisher": "Studio Pierrot",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Anime Freak FX Vol. 5",
+      "developer": "Studio Pierrot",
+      "publisher": "Studio Pierrot",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Bandai Digital Entertainment Catalog Summer/Autumn 1996",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1996-07-01"
+    },
+    {
+      "title": "Bandai Digital Entertainment Catalog Winter 1996",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1996-12-01"
+    },
+    {
+      "title": "Gundam 0079: The War for Earth",
+      "developer": "Presto Studios",
+      "publisher": "Bandai",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Gundam Tactics: Mobility Fleet 0079",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1996-04-26"
+    },
+    {
+      "title": "Marathon",
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Marathon 2: Durandal",
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Power Rangers Zeo: Full Tilt Battle Pinball",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1996-04-26"
+    },
+    {
+      "title": "Racing Days",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1996-03-29"
+    },
+    {
+      "title": "Super Marathon",
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "The Journeyman Project: Pegasus Prime",
+      "developer": "Presto Studios",
+      "publisher": "Bandai",
+      "release_date": "1997-01-01"
+    },
+    {
+      "title": "TOKIMEKI Memorial",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1996-12-19"
+    },
+    {
+      "title": "Ultra Pinball: Thrillride",
+      "developer": "Sierra On-Line",
+      "publisher": "Bandai",
+      "release_date": "1996-04-26"
+    }
+  ]
+}

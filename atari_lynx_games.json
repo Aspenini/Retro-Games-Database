@@ -1,0 +1,463 @@
+{
+  "console": "Atari Lynx",
+  "total_games": 76,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "A.P.B.",
+      "developer": "Tengen",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Awesome Golf",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Baseball Heroes",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "BattleWheels",
+      "developer": "Beyond Games",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Bill & Ted's Excellent Adventure",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Block Out",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Blue Lightning",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-09-01"
+    },
+    {
+      "title": "California Games",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-12-01"
+    },
+    {
+      "title": "Checkered Flag",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Chip's Challenge",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-12-01"
+    },
+    {
+      "title": "Crystal Mines II",
+      "developer": "Color Dreams",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Dinolympics",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Dirty Larry: Renegade Cop",
+      "developer": "Knight Technologies",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Double Dragon",
+      "developer": "Technōs Japan",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dracula the Undead",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Electrocop",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-09-01"
+    },
+    {
+      "title": "European Soccer Challenge",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Eye of the Beholder",
+      "developer": "NuFX",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Fat Bobby",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Gates of Zendocon",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-09-01"
+    },
+    {
+      "title": "Gauntlet: The Third Encounter",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Gordo 106",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Hard Drivin'",
+      "developer": "Tengen",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Hockey",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Hydra",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Ishido: The Way of Stones",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Jimmy Connors' Tennis",
+      "developer": "NuFX",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Joust",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Klax",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Kung Food",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Lemmings",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Lynx Casino",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "NFL Football",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Ninja Gaiden",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Ninja Gaiden III: The Ancient Ship of Doom",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Pac-Land",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Paperboy",
+      "developer": "Tengen",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Pinball Jam",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Power Factor",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "QPix",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Rampage",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Rampart",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Robotron: 2084",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Robo-Squash",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Rygar",
+      "developer": "Tecmo",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "S.T.U.N. Runner",
+      "developer": "Tengen",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Scrapyard Dog",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Shadow of the Beast",
+      "developer": "Reflections Interactive",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Shanghai",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Steel Talons",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Super Skweek",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Switch",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Toki",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Tournament Cyberball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Turbo Sub",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Viking Child",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Warbirds",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "World Class Soccer",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Xenophobe",
+      "developer": "Bally Midway",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Zarlor Mercenary",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Todd's Adventures in Slime World",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Basketbrawl",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "California Games",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-12-01"
+    },
+    {
+      "title": "Desert Strike: Return to the Gulf",
+      "developer": "Electronic Arts",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Fidelity Ultimate Chess Challenge",
+      "developer": "Fidelity Electronics",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Gates of Zendocon",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1989-09-01"
+    },
+    {
+      "title": "Loopz",
+      "developer": "Audiogenic",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Malibu Bikini Volleyball",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Pitfall: The Mayan Adventure",
+      "developer": "Activision",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "RoadBlasters",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Super Off Road",
+      "developer": "Tradewest",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Switchblade II",
+      "developer": "Gremlin Graphics",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "World Class Fussball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Xybots",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Batman Returns",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1992-01-01"
+    }
+  ]
+}

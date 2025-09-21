@@ -1,0 +1,49 @@
+{
+  "console": "PC Engine SuperGrafx",
+  "total_games": 7,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Aldynes",
+      "developer": "Produce",
+      "publisher": "NEC",
+      "release_date": "1991-03-29"
+    },
+    {
+      "title": "Battle Ace",
+      "developer": "Taito",
+      "publisher": "Taito", 
+      "release_date": "1989-12-29"
+    },
+    {
+      "title": "Darius Alpha",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "1990-07-27"
+    },
+    {
+      "title": "Darius Plus",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "1990-09-26"
+    },
+    {
+      "title": "Granzort",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1989-12-08"
+    },
+    {
+      "title": "Madouou Granzort",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1989-12-08"
+    },
+    {
+      "title": "1941: Counter Attack",
+      "developer": "Capcom",
+      "publisher": "NEC",
+      "release_date": "1990-12-14"
+    }
+  ]
+}

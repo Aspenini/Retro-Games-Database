@@ -1,0 +1,361 @@
+{
+  "console": "Atari 7800",
+  "total_games": 59,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "3D Tic-Tac-Toe",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Ace of Aces",
+      "developer": "Artech Digital Entertainment",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Alien Brigade",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Asteroids",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Ballblazer",
+      "developer": "Lucasfilm Games",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Barnyard Blaster",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Basketball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Centipede",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Choplifter!",
+      "developer": "Dan Gorlin",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Commando",
+      "developer": "Capcom",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Crack'ed",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Crossbow",
+      "developer": "Exidy",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Dark Chambers",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Desert Falcon",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Dig Dug",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Double Dragon",
+      "developer": "Technōs Japan",
+      "publisher": "Activision",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "F-18 Hornet",
+      "developer": "Imagic",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Fatal Run",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Fight Night",
+      "developer": "Accolade",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Food Fight",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Galaga",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Hat Trick",
+      "developer": "Bally Midway",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Ikari Warriors",
+      "developer": "SNK",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Impossible Mission",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Jinks",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Joust",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Karateka",
+      "developer": "Broderbund",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Mario Bros.",
+      "developer": "Nintendo",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Mat Mania Challenge",
+      "developer": "Technōs Japan",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Mean 18 Ultimate Golf",
+      "developer": "Accolade",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Midnight Mutants",
+      "developer": "Radioactive Software",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Motor Psycho",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Ninja Golf",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "One-on-One Basketball",
+      "developer": "Electronic Arts",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Pac-Man Collection",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Planet Smashers",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Pole Position II",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Rampage",
+      "developer": "Bally Midway",
+      "publisher": "Activision",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "RealSports Baseball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "RealSports Football",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "RealSports Volleyball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Rescue on Fractalus!",
+      "developer": "Lucasfilm Games",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Robotron: 2084",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Scrapyard Dog",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Sentinel",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Summer Games",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Super Huey UH-IX",
+      "developer": "Cosmi Corporation",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Super Skateboardin'",
+      "developer": "Absolute Entertainment",
+      "publisher": "Absolute Entertainment",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Tank Command",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Title Match Pro Wrestling",
+      "developer": "Absolute Entertainment",
+      "publisher": "Absolute Entertainment",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Tomcat: The F-14 Flight Simulator",
+      "developer": "Absolute Entertainment",
+      "publisher": "Absolute Entertainment",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Tower Toppler",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Water Ski",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Winter Games",
+      "developer": "Epyx",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Xenophobe",
+      "developer": "Bally Midway",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Xevious",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Sirius",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Meltdown",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1990-01-01"
+    }
+  ]
+}

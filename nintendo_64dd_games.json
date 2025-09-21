@@ -1,0 +1,67 @@
+{
+  "console": "Nintendo 64DD",
+  "total_games": 10,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Mario Artist: Paint Studio",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "1999-12-01"
+    },
+    {
+      "title": "Mario Artist: Talent Studio",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "2000-02-23"
+    },
+    {
+      "title": "Mario Artist: Communication Kit",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "2000-06-29"
+    },
+    {
+      "title": "Mario Artist: Polygon Studio",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "2000-08-29"
+    },
+    {
+      "title": "F-Zero X Expansion Kit",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "2000-04-21"
+    },
+    {
+      "title": "SimCity 64",
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "release_date": "2000-02-23"
+    },
+    {
+      "title": "Doshin the Giant",
+      "developer": "Param",
+      "publisher": "Nintendo",
+      "release_date": "1999-12-01"
+    },
+    {
+      "title": "Doshin the Giant: Tinkling Toddler Liberation Front! Assemble!",
+      "developer": "Param",
+      "publisher": "Nintendo",
+      "release_date": "2000-04-28"
+    },
+    {
+      "title": "Japan Pro Golf Tour 64",
+      "developer": "Camelot Software Planning",
+      "publisher": "Nintendo",
+      "release_date": "1999-12-01"
+    },
+    {
+      "title": "Randnet Disk",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release_date": "1999-12-01"
+    }
+  ]
+}

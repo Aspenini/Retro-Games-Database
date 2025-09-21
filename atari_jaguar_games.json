@@ -1,0 +1,409 @@
+{
+  "console": "Atari Jaguar",
+  "total_games": 67,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Alien vs Predator",
+      "developer": "Rebellion Developments",
+      "publisher": "Atari",
+      "release_date": "1994-10-20"
+    },
+    {
+      "title": "Attack of the Mutant Penguins",
+      "developer": "Sunrise Games",
+      "publisher": "Atari",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Baldies",
+      "developer": "Creative Edge Software",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Battlemorph",
+      "developer": "Attention to Detail",
+      "publisher": "Atari",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "BattleSphere",
+      "developer": "4Play",
+      "publisher": "ScatoLOGIC Inc.",
+      "release_date": "2000-01-01"
+    },
+    {
+      "title": "Breakout 2000",
+      "developer": "MP Games",
+      "publisher": "Telegames",
+      "release_date": "1996-03-01"
+    },
+    {
+      "title": "Brutal Sports Football",
+      "developer": "Teque London",
+      "publisher": "Telegames",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Bubsy in: Fractured Furry Tales",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Cannon Fodder",
+      "developer": "Sensible Software",
+      "publisher": "Virgin Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Checkered Flag",
+      "developer": "Rebellion Developments",
+      "publisher": "Atari",
+      "release_date": "1994-11-01"
+    },
+    {
+      "title": "Club Drive",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Crescent Galaxy",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Cybermorph",
+      "developer": "Attention to Detail",
+      "publisher": "Atari",
+      "release_date": "1993-11-01"
+    },
+    {
+      "title": "Defender 2000",
+      "developer": "Llamasoft",
+      "publisher": "Atari",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Doom",
+      "developer": "id Software",
+      "publisher": "Atari",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Double Dragon V: The Shadow Falls",
+      "developer": "Leland Interactive Media",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Dragon: The Bruce Lee Story",
+      "developer": "Virgin Interactive",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Evolution: Dino Dudes",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Fight for Life",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Flashback: The Quest for Identity",
+      "developer": "Delphine Software International",
+      "publisher": "U.S. Gold",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Flip Out!",
+      "developer": "Gorilla Systems Corporation",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Highlander: The Last of the MacLeods",
+      "developer": "Lore Design Limited",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Hover Strike",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "I-War",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Iron Soldier",
+      "developer": "Eclipse Software Design",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Iron Soldier 2",
+      "developer": "Eclipse Software Design",
+      "publisher": "Telegames",
+      "release_date": "1997-01-01"
+    },
+    {
+      "title": "Kasumi Ninja",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Missile Command 3D",
+      "developer": "Virtuality Entertainment",
+      "publisher": "Atari",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "NBA Jam Tournament Edition",
+      "developer": "Iguana Entertainment",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Pinball Fantasies",
+      "developer": "Digital Illusions",
+      "publisher": "Ocean Software",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Power Drive Rally",
+      "developer": "Rage Software",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Primal Rage",
+      "developer": "Probe Entertainment",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Raiden",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Rayman",
+      "developer": "Ubisoft",
+      "publisher": "Ubisoft",
+      "release_date": "1995-09-01"
+    },
+    {
+      "title": "Ruiner Pinball",
+      "developer": "High Voltage Software",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Soccer Kid",
+      "developer": "Krisalis Software",
+      "publisher": "Ocean Software",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Super Burnout",
+      "developer": "Shen Technologies",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Supercross 3D",
+      "developer": "Tiertex Design Studios",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Syndicate",
+      "developer": "Bullfrog Productions",
+      "publisher": "Ocean Software",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Tempest 2000",
+      "developer": "Llamasoft",
+      "publisher": "Atari",
+      "release_date": "1994-04-13"
+    },
+    {
+      "title": "Theme Park",
+      "developer": "Bullfrog Productions",
+      "publisher": "Ocean Software",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Trevor McFur in the Crescent Galaxy",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1993-11-01"
+    },
+    {
+      "title": "Troy Aikman NFL Football",
+      "developer": "Williams Entertainment",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Ultra Vortek",
+      "developer": "Beyond Games",
+      "publisher": "Atari",
+      "release_date": "1995-09-01"
+    },
+    {
+      "title": "Val d'Isère Skiing and Snowboarding",
+      "developer": "Virtual Studio",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "White Men Can't Jump",
+      "developer": "High Voltage Software",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wolfenstein 3D",
+      "developer": "id Software",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "World Tour Racing",
+      "developer": "Teque London",
+      "publisher": "Telegames",
+      "release_date": "1997-01-01"
+    },
+    {
+      "title": "Zool 2",
+      "developer": "The Warp Factory",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Brutal Sports Football",
+      "developer": "Teque London",
+      "publisher": "Telegames",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Bubsy in: Fractured Furry Tales",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Cannon Fodder",
+      "developer": "Sensible Software",
+      "publisher": "Virgin Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Double Dragon V: The Shadow Falls",
+      "developer": "Williams Entertainment",
+      "publisher": "Williams Entertainment",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Fight for Life",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Flashback: The Quest for Identity",
+      "developer": "Delphine Software",
+      "publisher": "U.S. Gold",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Hover Strike",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "I-War",
+      "developer": "Imagitec Design",
+      "publisher": "Atari",
+      "release_date": "1995-12-15"
+    },
+    {
+      "title": "Kasumi Ninja",
+      "developer": "Hand Made Software",
+      "publisher": "Atari",
+      "release_date": "1993-12-21"
+    },
+    {
+      "title": "Missile Command 3D",
+      "developer": "Virtuality Entertainment",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "NBA Jam Tournament Edition",
+      "developer": "Iguana Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Pinball Fantasies",
+      "developer": "Spidersoft",
+      "publisher": "21st Century Entertainment",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Power Drive Rally",
+      "developer": "Rage Software",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Primal Rage",
+      "developer": "Probe Entertainment",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Super Burnout",
+      "developer": "Shen Technologies",
+      "publisher": "Atari",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Syndicate",
+      "developer": "Ocean Software",
+      "publisher": "Ocean Software",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Ultra Vortek",
+      "developer": "Beyond Games",
+      "publisher": "Atari",
+      "release_date": "1995-09-01"
+    },
+    {
+      "title": "White Men Can't Jump",
+      "developer": "High Voltage Software",
+      "publisher": "Atari",
+      "release_date": "1995-01-01"
+    }
+  ]
+}

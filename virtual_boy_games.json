@@ -1,0 +1,139 @@
+{
+  "console": "Virtual Boy",
+  "total_games": 22,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "3D Tetris",
+      "developer": "T&E Soft",
+      "publisher": "Nintendo",
+      "release_date": "1996-03-22"
+    },
+    {
+      "title": "Galactic Pinball",
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "release_date": "1995-07-21"
+    },
+    {
+      "title": "Golf",
+      "developer": "T&E Soft",
+      "publisher": "Nintendo",
+      "release_date": "1995-07-21"
+    },
+    {
+      "title": "Insmouse no Yakata",
+      "developer": "Agenda",
+      "publisher": "I'MAX",
+      "release_date": "1995-10-27"
+    },
+    {
+      "title": "Jack Bros.",
+      "developer": "Atlus",
+      "publisher": "Atlus",
+      "release_date": "1995-09-29"
+    },
+    {
+      "title": "Mario Clash",
+      "developer": "Nintendo R&D1",
+      "publisher": "Nintendo",
+      "release_date": "1995-09-28"
+    },
+    {
+      "title": "Mario's Tennis",
+      "developer": "Nintendo R&D1",
+      "publisher": "Nintendo",
+      "release_date": "1995-07-21"
+    },
+    {
+      "title": "Nester's Funky Bowling",
+      "developer": "Saffire",
+      "publisher": "Nintendo",
+      "release_date": "1996-02-26"
+    },
+    {
+      "title": "Panic Bomber",
+      "developer": "Hudson Soft",
+      "publisher": "Hudson Soft",
+      "release_date": "1995-07-21"
+    },
+    {
+      "title": "Red Alarm",
+      "developer": "T&E Soft",
+      "publisher": "Nintendo",
+      "release_date": "1995-08-03"
+    },
+    {
+      "title": "SD Gundam: Dimension War",
+      "developer": "Locomotive Corporation",
+      "publisher": "Bandai",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Space Invaders Virtual Collection",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Space Squash",
+      "developer": "Tomcat System",
+      "publisher": "Coconuts Japan",
+      "release_date": "1995-10-21"
+    },
+    {
+      "title": "Teleroboxer",
+      "developer": "Nintendo R&D1",
+      "publisher": "Nintendo",
+      "release_date": "1995-08-21"
+    },
+    {
+      "title": "V-Tetris",
+      "developer": "Bullet-Proof Software",
+      "publisher": "Bullet-Proof Software",
+      "release_date": "1995-08-25"
+    },
+    {
+      "title": "Vertical Force",
+      "developer": "Hudson Soft",
+      "publisher": "Hudson Soft",
+      "release_date": "1995-08-25"
+    },
+    {
+      "title": "Virtual Bowling",
+      "developer": "Athena",
+      "publisher": "Athena",
+      "release_date": "1995-12-22"
+    },
+    {
+      "title": "Virtual Boy Wario Land",
+      "developer": "Nintendo R&D1",
+      "publisher": "Nintendo",
+      "release_date": "1995-12-01"
+    },
+    {
+      "title": "Virtual Fishing",
+      "developer": "Locomotive Corporation",
+      "publisher": "Victor Interactive Software",
+      "release_date": "1995-09-29"
+    },
+    {
+      "title": "Virtual Lab",
+      "developer": "J-Wing",
+      "publisher": "J-Wing",
+      "release_date": "1995-12-08"
+    },
+    {
+      "title": "Virtual League Baseball",
+      "developer": "Kemco",
+      "publisher": "Kemco",
+      "release_date": "1995-08-11"
+    },
+    {
+      "title": "Waterworld",
+      "developer": "Ocean Software",
+      "publisher": "Ocean Software",
+      "release_date": "1995-12-01"
+    }
+  ]
+}

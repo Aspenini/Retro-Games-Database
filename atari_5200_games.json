@@ -1,0 +1,421 @@
+{
+  "console": "Atari 5200",
+  "total_games": 69,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Astro Chase",
+      "developer": "First Star Software",
+      "publisher": "Parker Brothers",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Asteroids",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Battlezone",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Berzerk",
+      "developer": "Stern Electronics",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Blueprint",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Buck Rogers: Planet of Zoom",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Centipede",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Choplifter!",
+      "developer": "Dan Gorlin",
+      "publisher": "Broderbund",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Congo Bongo",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Countermeasure",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Defender",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Dig Dug",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Frogger",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Frogger II: ThreeeDeep!",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Galaxian",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Gorf",
+      "developer": "Midway",
+      "publisher": "CBS Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Gremlins",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Gyruss",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "H.E.R.O.",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "James Bond 007",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Joust",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Jungle Hunt",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Kaboom!",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Kangaroo",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Keystone Kapers",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "K-Razy Shoot-Out",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Last Starfighter",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Mario Bros.",
+      "developer": "Nintendo",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "MegaMania",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Meteorites",
+      "developer": "Electra Concepts",
+      "publisher": "Electra Concepts",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Miniature Golf",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Missile Command",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Moon Patrol",
+      "developer": "Irem",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Mountain King",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Ms. Pac-Man",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pac-Man",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1982-11-01"
+    },
+    {
+      "title": "Pengo",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pitfall!",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pitfall II: Lost Caverns",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Pole Position",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Popeye",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Q*bert",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Quest for Quintana Roo",
+      "developer": "Sunrise Software",
+      "publisher": "Sunrise Software",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "RealSports Baseball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "RealSports Football",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "RealSports Soccer",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "RealSports Tennis",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "RealSports Volleyball",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Rescue on Fractalus!",
+      "developer": "Lucasfilm Games",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "River Raid",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Robotron: 2084",
+      "developer": "Williams Electronics",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Space Dungeon",
+      "developer": "Taito",
+      "publisher": "Atari",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Space Invaders",
+      "developer": "Taito",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Space Shuttle: A Journey into Space",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Star Raiders",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Star Trek: Strategic Operations Simulator",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Star Wars: The Arcade Game",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Super Cobra",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Super Pac-Man",
+      "developer": "Namco",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Vanguard",
+      "developer": "SNK",
+      "publisher": "Atari",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Wizard of Wor",
+      "developer": "Midway",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Xari Arena",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Zone Ranger",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Bounty Bob Strikes Back!",
+      "developer": "Big Five Software",
+      "publisher": "Big Five Software",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Montezuma's Revenge",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Tempest",
+      "developer": "Atari",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Track & Field",
+      "developer": "Konami",
+      "publisher": "Atari",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Up 'n Down",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Zaxxon",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    }
+  ]
+}
