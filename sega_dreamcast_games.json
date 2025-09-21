@@ -1,0 +1,127 @@
+{
+  "console": "Sega Dreamcast",
+  "total_games": 619,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "4 Wheel Thunder",
+      "developer": "Kalisto Entertainment",
+      "publisher": "Midway",
+      "release_date": "2000-05-02"
+    },
+    {
+      "title": "4x4 Evo",
+      "developer": "Terminal Reality",
+      "publisher": "Gathering of Developers",
+      "release_date": "2000-10-26"
+    },
+    {
+      "title": "18 Wheeler: American Pro Trucker",
+      "developer": "Sega AM2",
+      "publisher": "Sega",
+      "release_date": "2000-10-12"
+    },
+    {
+      "title": "21: Two One",
+      "developer": "PrincessSoft",
+      "publisher": "PrincessSoft",
+      "release_date": "2001-12-27"
+    },
+    {
+      "title": "90 Minutes: Sega Championship Football",
+      "developer": "Smilebit",
+      "publisher": "Sega",
+      "release_date": "2000-06-22"
+    },
+    {
+      "title": "102 Dalmatians: Puppies to the Rescue",
+      "developer": "Crystal Dynamics",
+      "publisher": "Eidos Interactive",
+      "release_date": "2000-11-14"
+    },
+    {
+      "title": "Aerowings",
+      "developer": "CRI",
+      "publisher": "Sega",
+      "release_date": "1999-02-25"
+    },
+    {
+      "title": "Aerowings 2: Airstrike",
+      "developer": "CRI",
+      "publisher": "Sega",
+      "release_date": "2000-02-10"
+    },
+    {
+      "title": "Airforce Delta",
+      "developer": "Team Andromeda",
+      "publisher": "Konami",
+      "release_date": "1999-07-29"
+    },
+    {
+      "title": "Alien Front Online",
+      "developer": "Wow Entertainment",
+      "publisher": "Sega",
+      "release_date": "2001-10-09"
+    },
+    {
+      "title": "Alone in the Dark: The New Nightmare",
+      "developer": "Darkworks",
+      "publisher": "Infogrames",
+      "release_date": "2001-05-18"
+    },
+    {
+      "title": "Armada",
+      "developer": "Metro3D",
+      "publisher": "Midway",
+      "release_date": "1999-11-26"
+    },
+    {
+      "title": "Army Men: Sarge's Heroes",
+      "developer": "The 3DO Company",
+      "publisher": "The 3DO Company",
+      "release_date": "2000-04-27"
+    },
+    {
+      "title": "Atari Anniversary Edition",
+      "developer": "Digital Eclipse",
+      "publisher": "Infogrames",
+      "release_date": "2001-05-14"
+    },
+    {
+      "title": "Bang! Gunship Elite",
+      "developer": "Redstorm Entertainment",
+      "publisher": "Ubi Soft",
+      "release_date": "2000-08-31"
+    },
+    {
+      "title": "Bangai-O",
+      "developer": "Treasure",
+      "publisher": "ESP Software",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Blue Stinger",
+      "developer": "Climax Graphics",
+      "publisher": "Activision",
+      "release_date": "1999-08-26"
+    },
+    {
+      "title": "Border Down",
+      "developer": "G.rev",
+      "publisher": "G.rev",
+      "release_date": "2003-07-24"
+    },
+    {
+      "title": "Bust-A-Move 4",
+      "developer": "Taito",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1999-10-31"
+    },
+    {
+      "title": "Cannon Spike",
+      "developer": "Psikyo",
+      "publisher": "Capcom",
+      "release_date": "2000-06-29"
+    }
+  ]
+}
