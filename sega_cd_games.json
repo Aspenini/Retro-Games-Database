@@ -1,0 +1,1273 @@
+{
+  "console": "Sega CD",
+  "total_games": 210,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "After Burner III",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1992-10-15"
+    },
+    {
+      "title": "AH-3 Thunderstrike",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Aisle Lord",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1991-12-20"
+    },
+    {
+      "title": "Android Assault: The Revenge of Bari-Arm",
+      "developer": "Human Entertainment",
+      "publisher": "Human Entertainment",
+      "release_date": "1993-08-06"
+    },
+    {
+      "title": "Batman Returns",
+      "developer": "Malibu Interactive",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Battlecorps",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "BC Racers",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1994-12-01"
+    },
+    {
+      "title": "Bouncers",
+      "developer": "Dynamix",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Bram Stoker's Dracula",
+      "developer": "Psygnosis",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Brutal: Paws of Fury",
+      "developer": "GameTek",
+      "publisher": "GameTek",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Cadillacs and Dinosaurs: The Second Cataclysm",
+      "developer": "Rocket Science Games",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Championship Soccer '94",
+      "developer": "Sensible Software",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Chuck Rock",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Chuck Rock II: Son of Chuck",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Cliffhanger",
+      "developer": "Spidersoft",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1993-11-01"
+    },
+    {
+      "title": "Cobra Command",
+      "developer": "Wolf Team",
+      "publisher": "Sega",
+      "release_date": "1992-07-01"
+    },
+    {
+      "title": "Corpse Killer",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Crime Patrol",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Dark Wizard",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Deadly Moves",
+      "developer": "Kaneko",
+      "publisher": "Kaneko",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Double Switch",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dragon's Lair",
+      "developer": "Digital Leisure",
+      "publisher": "ReadySoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dungeon Explorer",
+      "developer": "Westone",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Dungeon Master II: The Legend of Skullkeep",
+      "developer": "JVC",
+      "publisher": "JVC",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Earthworm Jim: Special Edition",
+      "developer": "Shiny Entertainment",
+      "publisher": "Playmates Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Ecco the Dolphin",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1993-09-01"
+    },
+    {
+      "title": "Ecco: The Tides of Time",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1994-08-25"
+    },
+    {
+      "title": "ESPN Baseball Tonight",
+      "developer": "Park Place Productions",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "ESPN National Hockey Night",
+      "developer": "Park Place Productions",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "ESPN Sunday Night NFL",
+      "developer": "Park Place Productions",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Eternal Champions: Challenge from the Dark Side",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-02-01"
+    },
+    {
+      "title": "Eye of the Beholder",
+      "developer": "Westwood Studios",
+      "publisher": "Strategic Simulations",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Fahrenheit",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-08-01"
+    },
+    {
+      "title": "Fatal Fury Special",
+      "developer": "SNK",
+      "publisher": "JVC",
+      "release_date": "1994-09-01"
+    },
+    {
+      "title": "FIFA International Soccer",
+      "developer": "Extended Play Productions",
+      "publisher": "EA Sports",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Final Fight",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Flashback",
+      "developer": "Delphine Software",
+      "publisher": "U.S. Gold",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Ground Zero: Texas",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-11-01"
+    },
+    {
+      "title": "Heart of the Alien",
+      "developer": "Interplay Entertainment",
+      "publisher": "Virgin Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Hook",
+      "developer": "Core Design",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Iron Helix",
+      "developer": "Drew Pictures",
+      "publisher": "Spectrum HoloByte",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Joe Montana II: Sports Talk Football",
+      "developer": "BlueSky Software",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Jurassic Park",
+      "developer": "BlueSky Software",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Keio Flying Squadron",
+      "developer": "Victor Interactive Software",
+      "publisher": "JVC",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Kris Kross: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "The Lawnmower Man",
+      "developer": "Time Warner Interactive",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Lethal Enforcers",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lords of Thunder",
+      "developer": "Red Company",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lunar: The Silver Star",
+      "developer": "Game Arts",
+      "publisher": "Working Designs",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lunar: Eternal Blue",
+      "developer": "Game Arts",
+      "publisher": "Working Designs",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Mad Dog McCree",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Marky Mark and the Funky Bunch: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Mansion of Hidden Souls",
+      "developer": "System Sacom",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "MechWarrior",
+      "developer": "Dynamix",
+      "publisher": "Activision",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Microcosm",
+      "developer": "Psygnosis",
+      "publisher": "Psygnosis",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Midnight Raiders",
+      "developer": "Interactive Designs",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Mortal Kombat",
+      "developer": "Probe Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1993-09-01"
+    },
+    {
+      "title": "Night Trap",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-10-15"
+    },
+    {
+      "title": "Ninja Warriors",
+      "developer": "JVC",
+      "publisher": "JVC",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Novastorm",
+      "developer": "Psygnosis",
+      "publisher": "Psygnosis",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "The Pirates of Dark Water",
+      "developer": "Iguana Entertainment",
+      "publisher": "Sunsoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Popful Mail",
+      "developer": "Falcom",
+      "publisher": "Working Designs",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Power Factory Featuring C+C Music Factory: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Prince of Persia",
+      "developer": "Broderbund",
+      "publisher": "Domark",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Prize Fighter",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Puggsy",
+      "developer": "Traveller's Tales",
+      "publisher": "Psygnosis",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "QuickTime VR",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Racing Aces",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Rail-Chase",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-12-12"
+    },
+    {
+      "title": "Rise of the Dragon",
+      "developer": "Dynamix",
+      "publisher": "Sierra On-Line",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Road Avenger",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Robo Aleste",
+      "developer": "Compile",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Secret of Monkey Island",
+      "developer": "LucasArts",
+      "publisher": "U.S. Gold",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Sewer Shark",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-10-15"
+    },
+    {
+      "title": "Shining Force CD",
+      "developer": "Sonic! Software Planning",
+      "publisher": "Sega",
+      "release_date": "1994-07-22"
+    },
+    {
+      "title": "Silpheed",
+      "developer": "Game Arts",
+      "publisher": "Sega",
+      "release_date": "1993-08-01"
+    },
+    {
+      "title": "Sol-Feace",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Sonic CD",
+      "developer": "Sonic Team",
+      "publisher": "Sega",
+      "release_date": "1993-09-23"
+    },
+    {
+      "title": "Space Ace",
+      "developer": "Digital Leisure",
+      "publisher": "ReadySoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Star Wars: Rebel Assault",
+      "developer": "LucasArts",
+      "publisher": "LucasArts",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Stellar-Fire",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Supreme Warrior",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Surgical Strike",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Switch",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Terminator",
+      "developer": "Virgin Interactive",
+      "publisher": "Virgin Interactive",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "The Amazing Spider-Man vs. The Kingpin",
+      "developer": "Technopop",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Time Gal",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Tomcat Alley",
+      "developer": "The Code Monkeys",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Trivial Pursuit",
+      "developer": "Oxford Digital Enterprises",
+      "publisher": "Domark",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Ultraverse Prime",
+      "developer": "Malibu Interactive",
+      "publisher": "Malibu Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Vay",
+      "developer": "Sims",
+      "publisher": "Working Designs",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Who Shot Johnny Rock?",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Wild Woody",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wing Commander",
+      "developer": "Origin Systems",
+      "publisher": "Origin Systems",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Wired",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wirehead",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wonder Dog",
+      "developer": "Core Design",
+      "publisher": "JVC",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Advanced Dungeons & Dragons: Eye of the Beholder",
+      "developer": "Westwood Studios",
+      "publisher": "Strategic Simulations",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Alshark",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Aisle Lord",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1991-12-20"
+    },
+    {
+      "title": "Amazing Spider-Man vs. The Kingpin",
+      "developer": "Technopop",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Bouncers",
+      "developer": "Dynamix",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Brain Dead 13",
+      "developer": "ReadySoft",
+      "publisher": "ReadySoft",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Citizen X",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Dark Wizard",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Demolition Man",
+      "developer": "Virgin Interactive",
+      "publisher": "Virgin Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Double Switch",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dracula Unleashed",
+      "developer": "ICOM Simulations",
+      "publisher": "Viacom NewMedia",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dragon's Lair",
+      "developer": "ReadySoft",
+      "publisher": "ReadySoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dungeon Master II: The Legend of Skullkeep",
+      "developer": "JVC",
+      "publisher": "JVC",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Ecco the Dolphin",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1993-09-01"
+    },
+    {
+      "title": "Ecco: The Tides of Time",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1994-08-25"
+    },
+    {
+      "title": "Eternal Champions: Challenge from the Dark Side",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-02-01"
+    },
+    {
+      "title": "Final Fight",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Formula One World Championship: Beyond the Limit",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Ground Zero: Texas",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-11-01"
+    },
+    {
+      "title": "Heart of the Alien",
+      "developer": "Interplay Entertainment",
+      "publisher": "Virgin Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Hook",
+      "developer": "Core Design",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Keio Flying Squadron",
+      "developer": "Victor Interactive Software",
+      "publisher": "JVC",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Kris Kross: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Lords of Thunder",
+      "developer": "Red Company",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lunar: The Silver Star",
+      "developer": "Game Arts",
+      "publisher": "Working Designs",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lunar: Eternal Blue",
+      "developer": "Game Arts",
+      "publisher": "Working Designs",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Mad Dog McCree",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Mansion of Hidden Souls",
+      "developer": "System Sacom",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Marky Mark and the Funky Bunch: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "MechWarrior",
+      "developer": "Dynamix",
+      "publisher": "Activision",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Microcosm",
+      "developer": "Psygnosis",
+      "publisher": "Psygnosis",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Midnight Raiders",
+      "developer": "Interactive Designs",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Mortal Kombat",
+      "developer": "Probe Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1993-09-01"
+    },
+    {
+      "title": "Night Trap",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-10-15"
+    },
+    {
+      "title": "Ninja Warriors",
+      "developer": "JVC",
+      "publisher": "JVC",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Novastorm",
+      "developer": "Psygnosis",
+      "publisher": "Psygnosis",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Pirates of Dark Water",
+      "developer": "Iguana Entertainment",
+      "publisher": "Sunsoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Popful Mail",
+      "developer": "Falcom",
+      "publisher": "Working Designs",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Power Factory Featuring C+C Music Factory: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Prince of Persia",
+      "developer": "Broderbund",
+      "publisher": "Domark",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Prize Fighter",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Puggsy",
+      "developer": "Traveller's Tales",
+      "publisher": "Psygnosis",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "QuickTime VR",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Racing Aces",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Rail-Chase",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-12-12"
+    },
+    {
+      "title": "Rise of the Dragon",
+      "developer": "Dynamix",
+      "publisher": "Sierra On-Line",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Road Avenger",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Robo Aleste",
+      "developer": "Compile",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Secret of Monkey Island",
+      "developer": "LucasArts",
+      "publisher": "U.S. Gold",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Sewer Shark",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-10-15"
+    },
+    {
+      "title": "Shining Force CD",
+      "developer": "Sonic! Software Planning",
+      "publisher": "Sega",
+      "release_date": "1994-07-22"
+    },
+    {
+      "title": "Silpheed",
+      "developer": "Game Arts",
+      "publisher": "Sega",
+      "release_date": "1993-08-01"
+    },
+    {
+      "title": "Sol-Feace",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Sonic CD",
+      "developer": "Sonic Team",
+      "publisher": "Sega",
+      "release_date": "1993-09-23"
+    },
+    {
+      "title": "Space Ace",
+      "developer": "ReadySoft",
+      "publisher": "ReadySoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Star Wars: Rebel Assault",
+      "developer": "LucasArts",
+      "publisher": "LucasArts",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Stellar-Fire",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Supreme Warrior",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Surgical Strike",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Switch",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Terminator",
+      "developer": "Virgin Interactive",
+      "publisher": "Virgin Interactive",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Time Gal",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Tomcat Alley",
+      "developer": "The Code Monkeys",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Trivial Pursuit",
+      "developer": "Oxford Digital Enterprises",
+      "publisher": "Domark",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Ultraverse Prime",
+      "developer": "Malibu Interactive",
+      "publisher": "Malibu Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Vay",
+      "developer": "Sims",
+      "publisher": "Working Designs",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Who Shot Johnny Rock?",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Wild Woody",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wing Commander",
+      "developer": "Origin Systems",
+      "publisher": "Origin Systems",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Wired",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Wirehead",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Adventures of Willy Beamish",
+      "developer": "Dynamix",
+      "publisher": "Sierra On-Line",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Blackhole Assault",
+      "developer": "Micronet",
+      "publisher": "Micronet",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Cobra Command",
+      "developer": "Wolf Team",
+      "publisher": "Sega",
+      "release_date": "1992-07-01"
+    },
+    {
+      "title": "Double Switch",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Ecco Jr.",
+      "developer": "Novotrade International",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Final Fight CD",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Formula One World Championship: Beyond the Limit",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Joe Montana II: Sports Talk Football",
+      "developer": "BlueSky Software",
+      "publisher": "Sega",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Jurassic Park",
+      "developer": "BlueSky Software",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Lethal Enforcers",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Monkey Island 2: LeChuck's Revenge",
+      "developer": "LucasArts",
+      "publisher": "U.S. Gold",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "NBA Jam",
+      "developer": "Iguana Entertainment",
+      "publisher": "Acclaim Entertainment",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "NFL's Greatest: San Francisco vs Dallas 1978-1993",
+      "developer": "Park Place Productions",
+      "publisher": "Sony Imagesoft",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Panic!",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Penn & Teller's Smoke and Mirrors",
+      "developer": "Absolute Entertainment",
+      "publisher": "Absolute Entertainment",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Revengers of Vengeance",
+      "developer": "Micronet",
+      "publisher": "Micronet",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Road Rash",
+      "developer": "Electronic Arts",
+      "publisher": "Electronic Arts",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Snatcher",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1994-10-15"
+    },
+    {
+      "title": "Soul Star",
+      "developer": "Core Design",
+      "publisher": "Core Design",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "The Terminator",
+      "developer": "Virgin Interactive",
+      "publisher": "Virgin Interactive",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Third World War",
+      "developer": "Micronet",
+      "publisher": "Extreme Entertainment Group",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Thunderhawk",
+      "developer": "Core Design",
+      "publisher": "JVC",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Wolfchild",
+      "developer": "Core Design",
+      "publisher": "JVC",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "A/X-101",
+      "developer": "Micronet",
+      "publisher": "Micronet",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Advanced Dungeons & Dragons: Eye of the Beholder",
+      "developer": "Westwood Studios",
+      "publisher": "Strategic Simulations",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Battlefists",
+      "developer": "Micronet",
+      "publisher": "Micronet",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Bouncers",
+      "developer": "Dynamix",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Citizen X",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Demolition Man",
+      "developer": "Virgin Interactive",
+      "publisher": "Virgin Interactive",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Dracula Unleashed",
+      "developer": "ICOM Simulations",
+      "publisher": "Viacom NewMedia",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Dungeon Explorer",
+      "developer": "Westone",
+      "publisher": "Sega",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Earnest Evans",
+      "developer": "Wolf Team",
+      "publisher": "Renovation Products",
+      "release_date": "1991-01-01"
+    },
+    {
+      "title": "Flink",
+      "developer": "Psygnosis",
+      "publisher": "Psygnosis",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Formula One World Championship: Beyond the Limit",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Golf Magazine: 36 Great Holes Starring Fred Couples",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "It Came from the Desert",
+      "developer": "Cinemaware",
+      "publisher": "ReadySoft",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Kris Kross: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "The Lawnmower Man",
+      "developer": "Time Warner Interactive",
+      "publisher": "Time Warner Interactive",
+      "release_date": "1994-01-01"
+    },
+    {
+      "title": "Marky Mark and the Funky Bunch: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Power Factory Featuring C+C Music Factory: Make My Video",
+      "developer": "Digital Pictures",
+      "publisher": "Digital Pictures",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Sherlock Holmes: Consulting Detective",
+      "developer": "ICOM Simulations",
+      "publisher": "Viacom NewMedia",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Sherlock Holmes: Consulting Detective Vol. II",
+      "developer": "ICOM Simulations",
+      "publisher": "Viacom NewMedia",
+      "release_date": "1993-01-01"
+    },
+    {
+      "title": "Sherlock Holmes: Consulting Detective Vol. III",
+      "developer": "ICOM Simulations",
+      "publisher": "Viacom NewMedia",
+      "release_date": "1993-01-01"
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "console": "Wii U",
+  "total_games": 163,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Animal Crossing: amiibo Festival",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2015-11-13"
+    },
+    {
+      "title": "Assassin's Creed III",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Assassin's Creed IV: Black Flag",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2013-10-29"
+    },
+    {
+      "title": "Batman: Arkham City - Armored Edition",
+      "developer": "Rocksteady Studios",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Batman: Arkham Origins",
+      "developer": "WB Games Montréal",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2013-10-25"
+    },
+    {
+      "title": "Bayonetta",
+      "developer": "PlatinumGames",
+      "publisher": "Nintendo",
+      "release_date": "2014-09-20"
+    },
+    {
+      "title": "Bayonetta 2",
+      "developer": "PlatinumGames",
+      "publisher": "Nintendo",
+      "release_date": "2014-09-20"
+    },
+    {
+      "title": "Ben 10: Omniverse",
+      "developer": "High Voltage Software",
+      "publisher": "D3 Publisher",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Call of Duty: Black Ops II",
+      "developer": "Treyarch",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Call of Duty: Ghosts",
+      "developer": "Infinity Ward",
+      "publisher": "Activision",
+      "release_date": "2013-11-05"
+    },
+    {
+      "title": "Captain Toad: Treasure Tracker",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2014-11-13"
+    },
+    {
+      "title": "Darksiders II",
+      "developer": "Vigil Games",
+      "publisher": "THQ",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Disney Infinity",
+      "developer": "Avalanche Software",
+      "publisher": "Disney Interactive",
+      "release_date": "2013-08-18"
+    },
+    {
+      "title": "Disney Infinity 2.0",
+      "developer": "Avalanche Software",
+      "publisher": "Disney Interactive",
+      "release_date": "2014-09-23"
+    },
+    {
+      "title": "Disney Infinity 3.0",
+      "developer": "Avalanche Software",
+      "publisher": "Disney Interactive",
+      "release_date": "2015-08-30"
+    },
+    {
+      "title": "Donkey Kong Country: Tropical Freeze",
+      "developer": "Retro Studios",
+      "publisher": "Nintendo",
+      "release_date": "2014-02-13"
+    },
+    {
+      "title": "Dr. Luigi",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-12-31"
+    },
+    {
+      "title": "Deus Ex: Human Revolution - Director's Cut",
+      "developer": "Eidos Montréal",
+      "publisher": "Square Enix",
+      "release_date": "2013-10-22"
+    },
+    {
+      "title": "Epic Mickey 2: The Power of Two",
+      "developer": "Junction Point Studios",
+      "publisher": "Disney Interactive",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "FIFA 13",
+      "developer": "EA Sports",
+      "publisher": "Electronic Arts",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Game & Wario",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-06-23"
+    },
+    {
+      "title": "Hyrule Warriors",
+      "developer": "Omega Force",
+      "publisher": "Nintendo",
+      "release_date": "2014-08-14"
+    },
+    {
+      "title": "Injustice: Gods Among Us",
+      "developer": "NetherRealm Studios",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2013-04-16"
+    },
+    {
+      "title": "Kirby and the Rainbow Curse",
+      "developer": "HAL Laboratory",
+      "publisher": "Nintendo",
+      "release_date": "2015-01-22"
+    },
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2017-03-03"
+    },
+    {
+      "title": "The Legend of Zelda: The Wind Waker HD",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-09-20"
+    },
+    {
+      "title": "The Legend of Zelda: Twilight Princess HD",
+      "developer": "Tantalus Media",
+      "publisher": "Nintendo",
+      "release_date": "2016-03-04"
+    },
+    {
+      "title": "LEGO Batman 2: DC Super Heroes",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "LEGO City Undercover",
+      "developer": "TT Fusion",
+      "publisher": "Nintendo",
+      "release_date": "2013-03-18"
+    },
+    {
+      "title": "LEGO Marvel Super Heroes",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2013-10-22"
+    },
+    {
+      "title": "Madden NFL 13",
+      "developer": "EA Tiburon",
+      "publisher": "Electronic Arts",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Mario & Sonic at the Rio 2016 Olympic Games",
+      "developer": "Sega Sports R&D",
+      "publisher": "Nintendo",
+      "release_date": "2016-06-14"
+    },
+    {
+      "title": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
+      "developer": "Sega Sports R&D",
+      "publisher": "Nintendo",
+      "release_date": "2013-11-15"
+    },
+    {
+      "title": "Mario Kart 8",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2014-05-29"
+    },
+    {
+      "title": "Mario Party 10",
+      "developer": "NDcube",
+      "publisher": "Nintendo",
+      "release_date": "2015-03-12"
+    },
+    {
+      "title": "Mario Tennis: Ultra Smash",
+      "developer": "Camelot Software Planning",
+      "publisher": "Nintendo",
+      "release_date": "2015-11-20"
+    },
+    {
+      "title": "Mass Effect 3: Special Edition",
+      "developer": "BioWare",
+      "publisher": "Electronic Arts",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Monster Hunter 3 Ultimate",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "2013-03-19"
+    },
+    {
+      "title": "New Super Luigi U",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-06-20"
+    },
+    {
+      "title": "New Super Mario Bros. U",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Nintendo Land",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Nintendogs + Cats: Golden Retriever & New Friends",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-07-31"
+    },
+    {
+      "title": "Paper Mario: Color Splash",
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "release_date": "2016-10-07"
+    },
+    {
+      "title": "Pikmin 3",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-07-13"
+    },
+    {
+      "title": "Pokémon Rumble U",
+      "developer": "Ambrella",
+      "publisher": "Nintendo",
+      "release_date": "2013-08-29"
+    },
+    {
+      "title": "Project Zero: Maiden of Black Water",
+      "developer": "Koei Tecmo",
+      "publisher": "Nintendo",
+      "release_date": "2015-09-27"
+    },
+    {
+      "title": "Rayman Legends",
+      "developer": "Ubisoft Montpellier",
+      "publisher": "Ubisoft",
+      "release_date": "2013-08-29"
+    },
+    {
+      "title": "Scribblenauts Unlimited",
+      "developer": "5th Cell",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Scribblenauts Unmasked: A DC Comics Adventure",
+      "developer": "5th Cell",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2013-09-24"
+    },
+    {
+      "title": "Sing Party",
+      "developer": "FreeStyleGames",
+      "publisher": "Nintendo",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Skylanders: Giants",
+      "developer": "Toys for Bob",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Skylanders: Swap Force",
+      "developer": "Vicarious Visions",
+      "publisher": "Activision",
+      "release_date": "2013-10-13"
+    },
+    {
+      "title": "Skylanders: Trap Team",
+      "developer": "Toys for Bob",
+      "publisher": "Activision",
+      "release_date": "2014-10-05"
+    },
+    {
+      "title": "Skylanders: SuperChargers",
+      "developer": "Vicarious Visions",
+      "publisher": "Activision",
+      "release_date": "2015-09-20"
+    },
+    {
+      "title": "Skylanders: Imaginators",
+      "developer": "Toys for Bob",
+      "publisher": "Activision",
+      "release_date": "2016-10-16"
+    },
+    {
+      "title": "Splatoon",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2015-05-28"
+    },
+    {
+      "title": "Star Fox Guard",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2016-04-21"
+    },
+    {
+      "title": "Star Fox Zero",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2016-04-21"
+    },
+    {
+      "title": "Super Mario 3D World",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-11-21"
+    },
+    {
+      "title": "Super Mario Maker",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2015-09-10"
+    },
+    {
+      "title": "Super Smash Bros. for Wii U",
+      "developer": "Bandai Namco Games",
+      "publisher": "Nintendo",
+      "release_date": "2014-11-21"
+    },
+    {
+      "title": "Tekken Tag Tournament 2: Wii U Edition",
+      "developer": "Bandai Namco Games",
+      "publisher": "Bandai Namco Games",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "The Wonderful 101",
+      "developer": "PlatinumGames",
+      "publisher": "Nintendo",
+      "release_date": "2013-08-23"
+    },
+    {
+      "title": "Tokyo Mirage Sessions ♯FE",
+      "developer": "Atlus",
+      "publisher": "Nintendo",
+      "release_date": "2015-12-26"
+    },
+    {
+      "title": "Wii Fit U",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-10-31"
+    },
+    {
+      "title": "Wii Party U",
+      "developer": "NDcube",
+      "publisher": "Nintendo",
+      "release_date": "2013-10-25"
+    },
+    {
+      "title": "Wii Sports Club",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2013-10-30"
+    },
+    {
+      "title": "Xenoblade Chronicles X",
+      "developer": "Monolith Soft",
+      "publisher": "Nintendo",
+      "release_date": "2015-04-29"
+    },
+    {
+      "title": "Yoshi's Woolly World",
+      "developer": "Good-Feel",
+      "publisher": "Nintendo",
+      "release_date": "2015-06-25"
+    },
+    {
+      "title": "ZombiU",
+      "developer": "Ubisoft Montpellier",
+      "publisher": "Ubisoft",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "007 Legends",
+      "developer": "Eurocom",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Adventure Time: Explore the Dungeon Because I DON'T KNOW!",
+      "developer": "WayForward Technologies",
+      "publisher": "D3 Publisher",
+      "release_date": "2013-11-19"
+    },
+    {
+      "title": "Adventure Time: Finn & Jake Investigations",
+      "developer": "Vicious Cycle Software",
+      "publisher": "Little Orbit",
+      "release_date": "2015-11-03"
+    },
+    {
+      "title": "Angry Birds Star Wars",
+      "developer": "Rovio Entertainment",
+      "publisher": "Activision",
+      "release_date": "2013-10-29"
+    },
+    {
+      "title": "Angry Birds Trilogy",
+      "developer": "Rovio Entertainment",
+      "publisher": "Activision",
+      "release_date": "2013-09-03"
+    },
+    {
+      "title": "Axiom Verge",
+      "developer": "Thomas Happ Games",
+      "publisher": "Thomas Happ Games",
+      "release_date": "2015-09-01"
+    },
+    {
+      "title": "Barbie Dreamhouse Party",
+      "developer": "Torus Games",
+      "publisher": "Little Orbit",
+      "release_date": "2013-10-22"
+    },
+    {
+      "title": "Cabela's Big Game Hunter: Pro Hunts",
+      "developer": "Cauldron",
+      "publisher": "Activision",
+      "release_date": "2014-03-25"
+    },
+    {
+      "title": "Cabela's Dangerous Hunts 2013",
+      "developer": "Cauldron",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Child of Light",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2014-04-30"
+    },
+    {
+      "title": "Citizens of Earth",
+      "developer": "Eden Industries",
+      "publisher": "Atlus",
+      "release_date": "2015-01-20"
+    },
+    {
+      "title": "Cloudberry Kingdom",
+      "developer": "Pwnee Studios",
+      "publisher": "Ubisoft",
+      "release_date": "2013-07-31"
+    },
+    {
+      "title": "Cocoto Magic Circus",
+      "developer": "Neko Entertainment",
+      "publisher": "BigBen Interactive",
+      "release_date": "2013-02-28"
+    },
+    {
+      "title": "Coaster Crazy Deluxe",
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "release_date": "2013-12-05"
+    },
+    {
+      "title": "Croods: Prehistoric Party!",
+      "developer": "Torus Games",
+      "publisher": "D3 Publisher",
+      "release_date": "2013-03-19"
+    },
+    {
+      "title": "Devil's Third",
+      "developer": "Valhalla Game Studios",
+      "publisher": "Nintendo",
+      "release_date": "2015-08-04"
+    },
+    {
+      "title": "Duck Tales: Remastered",
+      "developer": "WayForward Technologies",
+      "publisher": "Capcom",
+      "release_date": "2013-09-11"
+    },
+    {
+      "title": "Dungeons & Dragons: Chronicles of Mystara",
+      "developer": "Iron Galaxy Studios",
+      "publisher": "Capcom",
+      "release_date": "2013-06-18"
+    },
+    {
+      "title": "ESPN Sports Connection",
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Fast & Furious: Showdown",
+      "developer": "Firebrand Games",
+      "publisher": "Activision",
+      "release_date": "2013-05-21"
+    },
+    {
+      "title": "Fist of the North Star: Ken's Rage 2",
+      "developer": "Omega Force",
+      "publisher": "Tecmo Koei",
+      "release_date": "2013-02-07"
+    },
+    {
+      "title": "Funky Barn",
+      "developer": "Tantalus Media",
+      "publisher": "505 Games",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Game Party Champions",
+      "developer": "Phosphor Games Studio",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Giana Sisters: Twisted Dreams",
+      "developer": "Black Forest Games",
+      "publisher": "Black Forest Games",
+      "release_date": "2013-08-28"
+    },
+    {
+      "title": "Guacamelee! Super Turbo Championship Edition",
+      "developer": "DrinkBox Studios",
+      "publisher": "DrinkBox Studios",
+      "release_date": "2014-07-02"
+    },
+    {
+      "title": "Hello Kitty Kruisers",
+      "developer": "Bergsala Lightweight",
+      "publisher": "Bergsala Lightweight",
+      "release_date": "2014-10-28"
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "developer": "Torus Games",
+      "publisher": "Little Orbit",
+      "release_date": "2014-06-17"
+    },
+    {
+      "title": "Human Resource Machine",
+      "developer": "Tomorrow Corporation",
+      "publisher": "Tomorrow Corporation",
+      "release_date": "2015-10-15"
+    },
+    {
+      "title": "Jeopardy!",
+      "developer": "Iron Galaxy Studios",
+      "publisher": "Sony Pictures Television",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Just Dance 2014",
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "release_date": "2013-10-01"
+    },
+    {
+      "title": "Just Dance 2015",
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "release_date": "2014-10-21"
+    },
+    {
+      "title": "Just Dance 2016",
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "release_date": "2015-10-20"
+    },
+    {
+      "title": "Just Dance 2017",
+      "developer": "Ubisoft Paris",
+      "publisher": "Ubisoft",
+      "release_date": "2016-10-25"
+    },
+    {
+      "title": "Kamen Rider: SummonRide!",
+      "developer": "Bandai Namco Games",
+      "publisher": "Bandai Namco Games",
+      "release_date": "2014-12-04"
+    },
+    {
+      "title": "Lego Batman 3: Beyond Gotham",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2014-11-11"
+    },
+    {
+      "title": "Lego Dimensions",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2015-09-27"
+    },
+    {
+      "title": "Lego Jurassic World",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2015-06-12"
+    },
+    {
+      "title": "Lego Movie Videogame",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2014-02-07"
+    },
+    {
+      "title": "Lego Star Wars: The Force Awakens",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2016-06-28"
+    },
+    {
+      "title": "Little Inferno",
+      "developer": "Tomorrow Corporation",
+      "publisher": "Tomorrow Corporation",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Mighty No. 9",
+      "developer": "Comcept",
+      "publisher": "Deep Silver",
+      "release_date": "2016-06-21"
+    },
+    {
+      "title": "Monster High: 13 Wishes",
+      "developer": "WayForward Technologies",
+      "publisher": "Little Orbit",
+      "release_date": "2013-10-29"
+    },
+    {
+      "title": "Monster High: New Ghoul in School",
+      "developer": "WayForward Technologies",
+      "publisher": "Little Orbit",
+      "release_date": "2015-05-14"
+    },
+    {
+      "title": "Nano Assault Neo",
+      "developer": "Shin'en Multimedia",
+      "publisher": "Shin'en Multimedia",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "NBA 2K13",
+      "developer": "Visual Concepts",
+      "publisher": "2K Sports",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Need for Speed: Most Wanted U",
+      "developer": "Criterion Games",
+      "publisher": "Electronic Arts",
+      "release_date": "2013-03-19"
+    },
+    {
+      "title": "Ninja Gaiden 3: Razor's Edge",
+      "developer": "Team Ninja",
+      "publisher": "Nintendo",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Penguins of Madagascar",
+      "developer": "Torus Games",
+      "publisher": "Little Orbit",
+      "release_date": "2014-11-25"
+    },
+    {
+      "title": "Resident Evil: Revelations",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "2013-05-21"
+    },
+    {
+      "title": "Rise: Race the Future",
+      "developer": "VD-dev",
+      "publisher": "VD-dev",
+      "release_date": "2018-07-19"
+    },
+    {
+      "title": "Rodea the Sky Soldier",
+      "developer": "Prope",
+      "publisher": "NIS America",
+      "release_date": "2015-11-10"
+    },
+    {
+      "title": "Runbow",
+      "developer": "13AM Games",
+      "publisher": "13AM Games",
+      "release_date": "2015-08-27"
+    },
+    {
+      "title": "Shantae: Half-Genie Hero",
+      "developer": "WayForward Technologies",
+      "publisher": "WayForward Technologies",
+      "release_date": "2016-12-20"
+    },
+    {
+      "title": "Shovel Knight",
+      "developer": "Yacht Club Games",
+      "publisher": "Yacht Club Games",
+      "release_date": "2014-06-26"
+    },
+    {
+      "title": "Sonic & All-Stars Racing Transformed",
+      "developer": "Sumo Digital",
+      "publisher": "Sega",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Sonic Boom: Rise of Lyric",
+      "developer": "Big Red Button Entertainment",
+      "publisher": "Sega",
+      "release_date": "2014-11-11"
+    },
+    {
+      "title": "Sonic Lost World",
+      "developer": "Sonic Team",
+      "publisher": "Sega",
+      "release_date": "2013-10-18"
+    },
+    {
+      "title": "SpongeBob SquarePants: Plankton's Robotic Revenge",
+      "developer": "Behaviour Interactive",
+      "publisher": "Activision",
+      "release_date": "2013-10-11"
+    },
+    {
+      "title": "Splatoon",
+      "developer": "Nintendo EPD",
+      "publisher": "Nintendo",
+      "release_date": "2015-05-28"
+    },
+    {
+      "title": "Stealth Inc 2: A Game of Clones",
+      "developer": "Curve Studios",
+      "publisher": "Curve Studios",
+      "release_date": "2014-10-23"
+    },
+    {
+      "title": "SteamWorld Dig",
+      "developer": "Image & Form",
+      "publisher": "Image & Form",
+      "release_date": "2013-08-29"
+    },
+    {
+      "title": "Tank! Tank! Tank!",
+      "developer": "Namco Bandai Games",
+      "publisher": "Namco Bandai Games",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "developer": "Beenox",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "developer": "Beenox",
+      "publisher": "Activision",
+      "release_date": "2014-04-29"
+    },
+    {
+      "title": "The Book of Unwritten Tales 2",
+      "developer": "King Art Games",
+      "publisher": "Nordic Games",
+      "release_date": "2015-02-20"
+    },
+    {
+      "title": "The Croods: Prehistoric Party!",
+      "developer": "Torus Games",
+      "publisher": "D3 Publisher",
+      "release_date": "2013-03-19"
+    },
+    {
+      "title": "The LEGO Movie Videogame",
+      "developer": "Traveller's Tales",
+      "publisher": "Warner Bros. Interactive",
+      "release_date": "2014-02-07"
+    },
+    {
+      "title": "The Smurfs 2",
+      "developer": "WayForward Technologies",
+      "publisher": "Ubisoft",
+      "release_date": "2013-07-23"
+    },
+    {
+      "title": "Transformers: Prime",
+      "developer": "Now Production",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Transformers: Rise of the Dark Spark",
+      "developer": "Edge of Reality",
+      "publisher": "Activision",
+      "release_date": "2014-06-24"
+    },
+    {
+      "title": "Trine 2: Director's Cut",
+      "developer": "Frozenbyte",
+      "publisher": "Frozenbyte",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Turbo: Super Stunt Squad",
+      "developer": "Monkey Bar Games",
+      "publisher": "D3 Publisher",
+      "release_date": "2013-07-16"
+    },
+    {
+      "title": "Two Brothers",
+      "developer": "AckkStudios",
+      "publisher": "AckkStudios",
+      "release_date": "2014-05-15"
+    },
+    {
+      "title": "Unepic",
+      "developer": "Francisco Téllez de Meneses",
+      "publisher": "EnjoyUp Games",
+      "release_date": "2014-05-08"
+    },
+    {
+      "title": "Walking Dead: Survival Instinct",
+      "developer": "Terminal Reality",
+      "publisher": "Activision",
+      "release_date": "2013-03-19"
+    },
+    {
+      "title": "Warriors Orochi 3 Hyper",
+      "developer": "Omega Force",
+      "publisher": "Tecmo Koei",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Watch Dogs",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2014-11-18"
+    },
+    {
+      "title": "Wheel of Fortune",
+      "developer": "Iron Galaxy Studios",
+      "publisher": "Sony Pictures Television",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Wipeout 3",
+      "developer": "Behaviour Interactive",
+      "publisher": "Activision",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Wipeout: Create & Crash",
+      "developer": "Behaviour Interactive",
+      "publisher": "Activision",
+      "release_date": "2013-10-15"
+    },
+    {
+      "title": "Your Shape: Fitness Evolved 2013",
+      "developer": "Ubisoft Montreal",
+      "publisher": "Ubisoft",
+      "release_date": "2012-11-18"
+    },
+    {
+      "title": "Art Academy: SketchPad",
+      "developer": "Headstrong Games",
+      "publisher": "Nintendo",
+      "release_date": "2013-08-09"
+    },
+    {
+      "title": "Art Academy: Home Studio",
+      "developer": "Headstrong Games",
+      "publisher": "Nintendo",
+      "release_date": "2015-06-25"
+    },
+    {
+      "title": "Affordable Space Adventures",
+      "developer": "KnapNok Games",
+      "publisher": "KnapNok Games",
+      "release_date": "2015-04-09"
+    },
+    {
+      "title": "Aqua TV",
+      "developer": "Zordix",
+      "publisher": "Zordix",
+      "release_date": "2013-11-21"
+    },
+    {
+      "title": "Bike Rider DX",
+      "developer": "Spicysoft",
+      "publisher": "Spicysoft",
+      "release_date": "2013-08-28"
+    },
+    {
+      "title": "Bombing Bastards",
+      "developer": "Sanuk Games",
+      "publisher": "Sanuk Games",
+      "release_date": "2014-12-11"
+    },
+    {
+      "title": "Chariot",
+      "developer": "Frima Studio",
+      "publisher": "Frima Studio",
+      "release_date": "2014-09-30"
+    },
+    {
+      "title": "Cube Life: Island Survival",
+      "developer": "Cypronia",
+      "publisher": "Cypronia",
+      "release_date": "2015-06-04"
+    },
+    {
+      "title": "Elliot Quest",
+      "developer": "PlayEveryWare",
+      "publisher": "PlayEveryWare",
+      "release_date": "2014-12-04"
+    },
+    {
+      "title": "Swords & Soldiers II: Shawarmageddon",
+      "developer": "Ronimo Games",
+      "publisher": "Ronimo Games",
+      "release_date": "2015-05-21"
+    },
+    {
+      "title": "Teslagrad",
+      "developer": "Rain Games",
+      "publisher": "Rain Games",
+      "release_date": "2014-09-11"
+    },
+    {
+      "title": "Pushmo World",
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "release_date": "2014-06-19"
+    }
+  ]
+}

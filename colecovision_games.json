@@ -1,0 +1,877 @@
+{
+  "console": "ColecoVision",
+  "total_games": 145,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "2010: The Graphic Action Game",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Antarctic Adventure",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Aquattack",
+      "developer": "Interphase",
+      "publisher": "Interphase",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Artillery Duel",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "B.C.'s Quest for Tires",
+      "developer": "Sydney Development",
+      "publisher": "Sierra On-Line",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "B.C.'s Quest for Tires II: Grog's Revenge",
+      "developer": "Sydney Development",
+      "publisher": "Sierra On-Line",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Beamrider",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Blockade Runner",
+      "developer": "Interphase",
+      "publisher": "Interphase",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Blueprint",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Bootleg",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Boulder Dash",
+      "developer": "First Star Software",
+      "publisher": "Micro Fun",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Buck Rogers: Planet of Zoom",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "BurgerTime",
+      "developer": "Data East",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Cabbage Patch Kids: Adventures in the Park",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Campaign '84",
+      "developer": "Sunrise Software",
+      "publisher": "Sunrise Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Carnival",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Castle Lorna",
+      "developer": "Telegames",
+      "publisher": "Telegames",
+      "release_date": "1998-01-01"
+    },
+    {
+      "title": "Centipede",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Choplifter!",
+      "developer": "Broderbund",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Congo Bongo",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Cosmic Avenger",
+      "developer": "Universal",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Cosmic Crisis",
+      "developer": "Telegames",
+      "publisher": "Telegames",
+      "release_date": "2000-01-01"
+    },
+    {
+      "title": "Dam Busters",
+      "developer": "Sydney Development",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Decathlon",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Defender",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Destructor",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Dig Dug",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Donkey Kong",
+      "developer": "Nintendo",
+      "publisher": "Coleco",
+      "release_date": "1982-08-01"
+    },
+    {
+      "title": "Donkey Kong Jr.",
+      "developer": "Nintendo",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Dragonfire",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Dukes of Hazzard",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Evolution",
+      "developer": "Sydney Development",
+      "publisher": "Sydney Development",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Facemaker",
+      "developer": "Spinnaker Software",
+      "publisher": "Spinnaker Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Falcons",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Fantastic Voyage",
+      "developer": "Synapse Software",
+      "publisher": "Synapse Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Fast Eddie",
+      "developer": "20th Century Fox",
+      "publisher": "20th Century Fox",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Flipper Slipper",
+      "developer": "Spectravideo",
+      "publisher": "Spectravideo",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Fortune Builder",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Frantic Freddy",
+      "developer": "Commercial Data Systems",
+      "publisher": "Commercial Data Systems",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Frenzy",
+      "developer": "Stern Electronics",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Frogger",
+      "developer": "Konami",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Frogger II: ThreeeDeep!",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Frontline",
+      "developer": "Taito",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Galactica",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Gateway to Apshai",
+      "developer": "Epyx",
+      "publisher": "Epyx",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Gorf",
+      "developer": "Midway",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Gust Buster",
+      "developer": "Sunrise Software",
+      "publisher": "Sunrise Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Gyruss",
+      "developer": "Konami",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "H.E.R.O.",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Hacker",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1985-01-01"
+    },
+    {
+      "title": "Heist",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Illusions",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "It's Only Rock 'N Roll",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Juke Box",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Jumpman Junior",
+      "developer": "Epyx",
+      "publisher": "Epyx",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Jungle Hunt",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Keystone Kapers",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Ken Uston Blackjack/Poker",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Lady Bug",
+      "developer": "Universal",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Learning with Leeper",
+      "developer": "Sierra On-Line",
+      "publisher": "Sierra On-Line",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Linking Logic",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Looping",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Miner 2049er",
+      "developer": "Big Five Software",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Montezuma's Revenge",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Moon Patrol",
+      "developer": "Irem",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Moonsweeper",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Motocross Racer",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Mountain King",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Mouse Trap",
+      "developer": "Exidy",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Mr. Do!",
+      "developer": "Universal",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Mr. Do!'s Castle",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Nova Blast",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Oil's Well",
+      "developer": "Sierra On-Line",
+      "publisher": "Sierra On-Line",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Omega Race",
+      "developer": "CBS Electronics",
+      "publisher": "CBS Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pac-Man",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pepper II",
+      "developer": "Exidy",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Pitstop",
+      "developer": "Epyx",
+      "publisher": "Epyx",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pitfall!",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Pitfall II: Lost Caverns",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Popeye",
+      "developer": "Nintendo",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Port",
+      "developer": "Hayden Software",
+      "publisher": "Hayden Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Q*bert",
+      "developer": "Gottlieb",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Quest for the Rings",
+      "developer": "Magnavox",
+      "publisher": "Parker Brothers",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "River Raid",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Robin Hood",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Rock 'n Rope",
+      "developer": "Konami",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Rocky: Super Action Boxing",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Root Beer Tapper",
+      "developer": "Bally Midway",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Rox",
+      "developer": "Telegames",
+      "publisher": "Telegames",
+      "release_date": "2006-01-01"
+    },
+    {
+      "title": "Sammy Lightfoot",
+      "developer": "Sierra On-Line",
+      "publisher": "Sierra On-Line",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Sewer Sam",
+      "developer": "Interphase",
+      "publisher": "Interphase",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Shamus",
+      "developer": "Synapse Software",
+      "publisher": "Synapse Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Sir Lancelot",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Slither",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Slurpy",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Smurfs: Rescue in Gargamel's Castle",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Space Fury",
+      "developer": "Sega",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Space Panic",
+      "developer": "Universal",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Spectron",
+      "developer": "Spectravideo",
+      "publisher": "Spectravideo",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Spy Hunter",
+      "developer": "Bally Midway",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Squish 'em",
+      "developer": "Sirius Software",
+      "publisher": "Sirius Software",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Star Trek: Strategic Operations Simulator",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Star Wars",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Stargate",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Subroc",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Super Action Baseball",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Super Action Football",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Super Cross Force",
+      "developer": "Spectravideo",
+      "publisher": "Spectravideo",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Super DK!",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Tapper",
+      "developer": "Bally Midway",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Tarzan",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Telepathy",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "The Dukes of Hazzard",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "The Heist",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Time Pilot",
+      "developer": "Konami",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Tomarc the Barbarian",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Tournament Tennis",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Turbo",
+      "developer": "Sega",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Up 'n Down",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Venture",
+      "developer": "Exidy",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Victory",
+      "developer": "Exidy",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Video Olympics",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "War Games",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "War Room",
+      "developer": "Probe 2000",
+      "publisher": "Probe 2000",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Wing War",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Word Feud",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Zaxxon",
+      "developer": "Sega",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Zenji",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Alcazar: The Forgotten Fortress",
+      "developer": "Telegames",
+      "publisher": "Telegames",
+      "release_date": "1985-01-01"
+    },
+    {
+      "title": "Bank Panic",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1985-01-01"
+    },
+    {
+      "title": "Black Onyx",
+      "developer": "Bullet-Proof Software",
+      "publisher": "ASCII Corporation",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Cabbage Patch Kids Picture Show",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Dance Fantasy",
+      "developer": "Micro Fun",
+      "publisher": "Micro Fun",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Defender II",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Galaxian",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Gradius",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Joust",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Kung Fu Master",
+      "developer": "Sparrow",
+      "publisher": "Sparrow",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Logic Levels",
+      "developer": "Fisher-Price",
+      "publisher": "Fisher-Price",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Meteoric Shower",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pirate's Treasure",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Robin Hood",
+      "developer": "Xonox",
+      "publisher": "Xonox",
+      "release_date": "1984-01-01"
+    },
+    {
+      "title": "Smurf: Paint 'N' Play Workshop",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Super Action Soccer",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Threshold",
+      "developer": "Sierra On-Line",
+      "publisher": "Sierra On-Line",
+      "release_date": "1983-01-01"
+    }
+  ]
+}

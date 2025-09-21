@@ -1,0 +1,757 @@
+{
+  "console": "Intellivision",
+  "total_games": 125,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Advanced Dungeons & Dragons",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Advanced Dungeons & Dragons: Treasure of Tarmin",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "ABPA Backgammon",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Armor Battle",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Astrosmash",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Atlantis",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Auto Racing",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "B-17 Bomber",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Baseball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Basketball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Beauty & the Beast",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Blockade Runner",
+      "developer": "Interphase",
+      "publisher": "Interphase",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Body Slam! Super Pro Wrestling",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Bomb Squad",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Bowling",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Boxing",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Burgertime",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Buzz Bombers",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Carnival",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Checkers",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Chess",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Chip Shot: Super Pro Golf",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Commando",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Congo Bongo",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Daredevil",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Deadly Discs",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Demon Attack",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Dig Dug",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Donkey Kong",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Donkey Kong Jr.",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Dracula",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Dragonfire",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Dreadnaught Factor",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Duncan's Thin Ice",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Electric Company: Math Fun",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Electric Company: Word Fun",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Fathom",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Football",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Frog Bog",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Frogger",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Golf",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Happy Trails",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Hard Hat",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Hockey",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Horse Racing",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Hover Force",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Ice Trek",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Kool-Aid Man",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Lady Bug",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Las Vegas Poker & Blackjack",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "League of Light",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Lock 'N' Chase",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Loco-Motion",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Major League Baseball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Masters of the Universe: The Power of He-Man",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Math Fun",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Microsurgeon",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Mind Strike",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Mission X",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Motocross",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Mountain Madness: Super Pro Skiing",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Mouse Trap",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "NASL Soccer",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "NBA Basketball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "NFL Football",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "NHL Hockey",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Night Stalker",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Nova Blast",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Number Jumble",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "PBA Bowling",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "PGA Golf",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Pinball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Pitfall!",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Poker & Blackjack",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "Popeye",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Q*bert",
+      "developer": "Parker Brothers",
+      "publisher": "Parker Brothers",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "River Raid",
+      "developer": "Activision",
+      "publisher": "Activision",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Royal Dealer",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Safecracker",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Scooby-Doo's Maze Chase",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Sea Battle",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Shark! Shark!",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Skiing",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Slam Dunk: Super Pro Basketball",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Snafu",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Space Armada",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Space Battle",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Space Hawk",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Space Spartans",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Spiker! Super Pro Volleyball",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Stadium Mud Buggies",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1989-01-01"
+    },
+    {
+      "title": "Star Strike",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Sub Hunt",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Super Pro Decathlon",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1988-01-01"
+    },
+    {
+      "title": "Super Pro Football",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Swords & Serpents",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Tag-Along Todd",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Tennis",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1979-01-01"
+    },
+    {
+      "title": "Thin Ice",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Thunder Castle",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Tower of Doom",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1987-01-01"
+    },
+    {
+      "title": "Triple Action",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Truckin'",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "USCF Chess",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "USFL Football",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Utopia",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Vectron",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "White Water!",
+      "developer": "Imagic",
+      "publisher": "Imagic",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Word Fun",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1978-01-01"
+    },
+    {
+      "title": "World Championship Baseball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "World Series Major League Baseball",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Zaxxon",
+      "developer": "Coleco",
+      "publisher": "Coleco",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "4-Tris",
+      "developer": "Realtime Associates",
+      "publisher": "INTV Corporation",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Brickout!",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1986-01-01"
+    },
+    {
+      "title": "Centipede",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Championship Tennis",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1985-01-01"
+    },
+    {
+      "title": "Deep Pockets: Super Pro Pool and Billiards",
+      "developer": "Realtime Associates",
+      "publisher": "Mattel Electronics",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Hypnotic Lights",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1981-01-01"
+    },
+    {
+      "title": "Learning Fun I: Math",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Learning Fun II: Word Fun",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Melody Blaster",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Pac-Man",
+      "developer": "Atarisoft",
+      "publisher": "Atarisoft",
+      "release_date": "1983-01-01"
+    },
+    {
+      "title": "Party Mix",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1982-01-01"
+    },
+    {
+      "title": "Skiing",
+      "developer": "Mattel Electronics",
+      "publisher": "Mattel Electronics",
+      "release_date": "1980-01-01"
+    },
+    {
+      "title": "Stadium Mud Buggies",
+      "developer": "INTV Corporation",
+      "publisher": "INTV Corporation",
+      "release_date": "1989-01-01"
+    }
+  ]
+}

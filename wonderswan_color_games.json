@@ -1,0 +1,661 @@
+{
+  "console": "WonderSwan Color",
+  "total_games": 109,
+  "last_updated": "2024-09-21",
+  "games": [
+    {
+      "title": "Beatmania for WonderSwan",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "2000-08-03"
+    },
+    {
+      "title": "Blue Wing Blitz",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2001-07-05"
+    },
+    {
+      "title": "Chocobo no Fushigi na Dungeon for WonderSwan",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2001-12-20"
+    },
+    {
+      "title": "Clock Tower for WonderSwan",
+      "developer": "Human Entertainment",
+      "publisher": "Human Entertainment",
+      "release_date": "1999-12-09"
+    },
+    {
+      "title": "Crazy Climber",
+      "developer": "Nichibutsu",
+      "publisher": "Nichibutsu",
+      "release_date": "2000-01-27"
+    },
+    {
+      "title": "Digimon Adventure: Anode Tamer",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Digimon Adventure: Cathode Tamer",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-07-06"
+    },
+    {
+      "title": "Digimon Adventure 02: Tag Tamers",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-09-21"
+    },
+    {
+      "title": "Digimon Adventure 02: D1 Tamers",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-12-07"
+    },
+    {
+      "title": "Digimon Tamers: Battle Spirit",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-12-06"
+    },
+    {
+      "title": "Digimon Tamers: Digimon Medley",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-06-07"
+    },
+    {
+      "title": "Final Fantasy",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2000-12-09"
+    },
+    {
+      "title": "Final Fantasy II",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2001-05-03"
+    },
+    {
+      "title": "Final Fantasy IV",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2002-03-28"
+    },
+    {
+      "title": "From TV Animation One Piece: Mezase Kaizoku Ou!",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "From TV Animation One Piece: Niji no Shima Densetsu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-04-19"
+    },
+    {
+      "title": "From TV Animation One Piece: Yume no Luffy Kaizoku-dan Tanjou!",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-07-18"
+    },
+    {
+      "title": "Ganso Jajamaru-kun",
+      "developer": "Jaleco",
+      "publisher": "Jaleco",
+      "release_date": "1999-07-15"
+    },
+    {
+      "title": "Gekitou Crush Gear Turbo",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-01-31"
+    },
+    {
+      "title": "Golden Axe",
+      "developer": "Sega",
+      "publisher": "Sega",
+      "release_date": "2002-04-25"
+    },
+    {
+      "title": "Gunpey",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "1999-03-10"
+    },
+    {
+      "title": "Hataraku Chocobo",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2000-09-21"
+    },
+    {
+      "title": "Hunter x Hunter: Kindan no Hihou",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "2001-04-26"
+    },
+    {
+      "title": "Hunter x Hunter: Mirai e no Isan",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "2002-04-18"
+    },
+    {
+      "title": "Inuyasha: Kagome no Sengoku Nikki",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-12-06"
+    },
+    {
+      "title": "Inuyasha: Kagome no Yume Nikki",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-12-05"
+    },
+    {
+      "title": "Kaze no Klonoa: Moonlight Museum",
+      "developer": "Namco",
+      "publisher": "Namco",
+      "release_date": "1999-05-20"
+    },
+    {
+      "title": "Kinnikuman Nisei: New Generation vs. Legendary Chojin",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-08-08"
+    },
+    {
+      "title": "Klonoa Heroes: Densetsu no Star Medal",
+      "developer": "Namco",
+      "publisher": "Namco",
+      "release_date": "2002-12-05"
+    },
+    {
+      "title": "Lode Runner for WonderSwan",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-03-04"
+    },
+    {
+      "title": "Macross: True Love Song",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-10-28"
+    },
+    {
+      "title": "Makai Toushi SaGa",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2002-01-17"
+    },
+    {
+      "title": "Mobile Suit Gundam: Char's Counterattack",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Mobile Suit Gundam SEED",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2004-08-05"
+    },
+    {
+      "title": "Mobile Suit Gundam Vol. 1: Side 7",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-07-29"
+    },
+    {
+      "title": "Mobile Suit Gundam Vol. 2: Jaburo",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-12-16"
+    },
+    {
+      "title": "Mobile Suit Gundam Vol. 3: A Baoa Qu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-04-27"
+    },
+    {
+      "title": "Morita Kazuo no Shogi",
+      "developer": "Random House",
+      "publisher": "Random House",
+      "release_date": "2000-03-30"
+    },
+    {
+      "title": "Mr. Driller",
+      "developer": "Namco",
+      "publisher": "Namco",
+      "release_date": "2000-06-29"
+    },
+    {
+      "title": "Naruto: Konoha Ninpouchou",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2003-07-17"
+    },
+    {
+      "title": "Naruto: Konoha Senki",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2003-12-18"
+    },
+    {
+      "title": "Nice On",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "1999-11-25"
+    },
+    {
+      "title": "One Piece: Grand Battle! Swan Colosseum",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-12-19"
+    },
+    {
+      "title": "Pocket Fighter",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "1999-08-05"
+    },
+    {
+      "title": "Puyo Puyo Tsuu",
+      "developer": "Compile",
+      "publisher": "Bandai",
+      "release_date": "1999-03-25"
+    },
+    {
+      "title": "Riviera: Yakusoku no Chi Riviera",
+      "developer": "Sting Entertainment",
+      "publisher": "Bandai",
+      "release_date": "2002-07-12"
+    },
+    {
+      "title": "Rockman & Forte: Mirai Kara no Chousensha",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "1999-07-29"
+    },
+    {
+      "title": "Rockman EXE WS",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "2003-02-06"
+    },
+    {
+      "title": "Romancing SaGa",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2002-12-19"
+    },
+    {
+      "title": "SD Gundam G Generation: Gather Beat",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-08-03"
+    },
+    {
+      "title": "SD Gundam G Generation: Mono-Eye Gundams",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-08-01"
+    },
+    {
+      "title": "Senkaiden Houshin Engi",
+      "developer": "Koei",
+      "publisher": "Koei",
+      "release_date": "2000-04-06"
+    },
+    {
+      "title": "Shaman King: Asu e no Ishi",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-03-21"
+    },
+    {
+      "title": "Shin Megami Tensei Devil Children: Aka no Shou",
+      "developer": "Atlus",
+      "publisher": "Atlus",
+      "release_date": "2000-11-17"
+    },
+    {
+      "title": "Shin Megami Tensei Devil Children: Shiro no Shou",
+      "developer": "Atlus",
+      "publisher": "Atlus",
+      "release_date": "2000-11-17"
+    },
+    {
+      "title": "Sorobang",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "2000-12-14"
+    },
+    {
+      "title": "Space Invaders",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "2001-07-26"
+    },
+    {
+      "title": "Street Fighter Alpha",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "1999-07-15"
+    },
+    {
+      "title": "Super Robot Taisen Compact",
+      "developer": "Banpresto",
+      "publisher": "Banpresto",
+      "release_date": "1999-04-28"
+    },
+    {
+      "title": "Super Robot Taisen Compact 2 Dai-1-bu: Chikyuu Gekishin-hen",
+      "developer": "Banpresto",
+      "publisher": "Banpresto",
+      "release_date": "2000-03-30"
+    },
+    {
+      "title": "Super Robot Taisen Compact 2 Dai-2-bu: Uchuu Gekishin-hen",
+      "developer": "Banpresto",
+      "publisher": "Banpresto",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Super Robot Taisen Compact 2 Dai-3-bu: Ginga Kessen-hen",
+      "developer": "Banpresto",
+      "publisher": "Banpresto",
+      "release_date": "2001-01-18"
+    },
+    {
+      "title": "Super Robot Taisen Compact 3",
+      "developer": "Banpresto",
+      "publisher": "Banpresto",
+      "release_date": "2003-07-17"
+    },
+    {
+      "title": "Taikyoku Igo: Goliath",
+      "developer": "Bullet Proof Software",
+      "publisher": "Bullet Proof Software",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "Tekken",
+      "developer": "Namco",
+      "publisher": "Namco",
+      "release_date": "1999-12-16"
+    },
+    {
+      "title": "Terrors 2",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-02-24"
+    },
+    {
+      "title": "Tetris",
+      "developer": "Bullet Proof Software",
+      "publisher": "Bullet Proof Software",
+      "release_date": "1999-03-04"
+    },
+    {
+      "title": "The King of Fighters R-2",
+      "developer": "SNK",
+      "publisher": "SNK",
+      "release_date": "1999-05-27"
+    },
+    {
+      "title": "Tottoko Hamtaro: Tomodachi Daisakusen Dechu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-04-06"
+    },
+    {
+      "title": "Tottoko Hamtaro 2: Hamuchanzu no Takara Sagashi Daisaku",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-05-25"
+    },
+    {
+      "title": "Tottoko Hamtaro 3: Love Love Daibouken Dechu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2002-05-02"
+    },
+    {
+      "title": "Tottoko Hamtaro 4: Nijiro Daikoushin Dechu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2003-04-24"
+    },
+    {
+      "title": "Wild Card",
+      "developer": "Square",
+      "publisher": "Square",
+      "release_date": "2001-03-29"
+    },
+    {
+      "title": "Xi",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "1999-07-01"
+    },
+    {
+      "title": "XI Jumbo",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "2001-02-08"
+    },
+    {
+      "title": "XI Little",
+      "developer": "Koto",
+      "publisher": "Bandai",
+      "release_date": "2000-07-20"
+    },
+    {
+      "title": "Yu-Gi-Oh! Duel Monsters",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1998-12-16"
+    },
+    {
+      "title": "Yu-Gi-Oh! Duel Monsters II: Yamikai Kettouki",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "1999-07-08"
+    },
+    {
+      "title": "Yu-Gi-Oh! Duel Monsters 4: Saikyou Kettousha Senki",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "release_date": "2000-12-07"
+    },
+    {
+      "title": "Bandai Tamagotchi",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-02-03"
+    },
+    {
+      "title": "Buffers Evolution",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-12-21"
+    },
+    {
+      "title": "Chou Denki Card Battle: Youkai Denki",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-03-29"
+    },
+    {
+      "title": "Densha de Go!",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "2000-08-10"
+    },
+    {
+      "title": "Digital Monster Ver. WonderSwan",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "1999-12-23"
+    },
+    {
+      "title": "Dokodemo Hamster 4: Doki-doki Sugoroku Daibouken!",
+      "developer": "Epoch",
+      "publisher": "Epoch",
+      "release_date": "2002-04-25"
+    },
+    {
+      "title": "Dicing Knight",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-12-06"
+    },
+    {
+      "title": "Engacho!",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-08-03"
+    },
+    {
+      "title": "Fire Pro Wrestling",
+      "developer": "Human Entertainment",
+      "publisher": "Human Entertainment",
+      "release_date": "2001-08-02"
+    },
+    {
+      "title": "From TV Animation Slam Dunk: Shikyuu e no Michi",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-08-09"
+    },
+    {
+      "title": "Harobots",
+      "developer": "Sunrise Interactive",
+      "publisher": "Sunrise Interactive",
+      "release_date": "2001-06-28"
+    },
+    {
+      "title": "Jade Cocoon: Tamamayu Monogatari",
+      "developer": "Genki",
+      "publisher": "Genki",
+      "release_date": "2001-08-02"
+    },
+    {
+      "title": "Kaitou Saint Tail",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-07-27"
+    },
+    {
+      "title": "Koukuu Kiki Ippatsu",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-03-30"
+    },
+    {
+      "title": "Machi-ing Maker",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-06-29"
+    },
+    {
+      "title": "Makaimura for WonderSwan",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release_date": "1999-12-09"
+    },
+    {
+      "title": "Mobile Suit Gundam: Char's Counterattack",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-09-14"
+    },
+    {
+      "title": "Neon Genesis Evangelion: Shito Ikusei",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-04-20"
+    },
+    {
+      "title": "Puzzle Bobble",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "2001-02-08"
+    },
+    {
+      "title": "Rainbow Islands: Putty's Party",
+      "developer": "Taito",
+      "publisher": "Taito",
+      "release_date": "2000-12-14"
+    },
+    {
+      "title": "Ring Infinity",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-12-13"
+    },
+    {
+      "title": "SD Gundam G Generation: Gather Beat",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-08-03"
+    },
+    {
+      "title": "Senkaiden Ni no Kuni",
+      "developer": "Koei",
+      "publisher": "Koei",
+      "release_date": "2001-08-02"
+    },
+    {
+      "title": "Slither Link",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-02-22"
+    },
+    {
+      "title": "Summon Night",
+      "developer": "Flight-Plan",
+      "publisher": "Banpresto",
+      "release_date": "2000-01-06"
+    },
+    {
+      "title": "Turbo Turtle Adventure",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2001-03-15"
+    },
+    {
+      "title": "Uzumaki: Densetsu no Daichi",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-12-28"
+    },
+    {
+      "title": "WonderSwan Color Puzzle Collection",
+      "developer": "Bandai",
+      "publisher": "Bandai",
+      "release_date": "2000-12-07"
+    },
+    {
+      "title": "Yakouchuu",
+      "developer": "Athena",
+      "publisher": "Athena",
+      "release_date": "2000-08-31"
+    },
+    {
+      "title": "Zen-Nippon GT Senshuken",
+      "developer": "MTO",
+      "publisher": "MTO",
+      "release_date": "2000-05-25"
+    }
+  ]
+}
