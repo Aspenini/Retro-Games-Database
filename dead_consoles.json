@@ -1,0 +1,424 @@
+{
+  "metadata": {
+    "title": "Dead Gaming Consoles Database",
+    "description": "Comprehensive list of discontinued gaming consoles with key information",
+    "last_updated": "2024-09-21",
+    "total_consoles": 45
+  },
+  "consoles": [
+    {
+      "console": "Magnavox Odyssey",
+      "manufacturer": "Magnavox",
+      "release_year": 1972,
+      "discontinuation_year": 1975,
+      "generation": 1,
+      "type": "Home Console",
+      "total_official_games": 28
+    },
+    {
+      "console": "Atari 2600",
+      "manufacturer": "Atari",
+      "release_year": 1977,
+      "discontinuation_year": 1992,
+      "generation": 2,
+      "type": "Home Console",
+      "total_official_games": 565
+    },
+    {
+      "console": "Intellivision",
+      "manufacturer": "Mattel",
+      "release_year": 1979,
+      "discontinuation_year": 1990,
+      "generation": 2,
+      "type": "Home Console",
+      "total_official_games": 125
+    },
+    {
+      "console": "ColecoVision",
+      "manufacturer": "Coleco",
+      "release_year": 1982,
+      "discontinuation_year": 1985,
+      "generation": 2,
+      "type": "Home Console",
+      "total_official_games": 145
+    },
+    {
+      "console": "Atari 5200",
+      "manufacturer": "Atari",
+      "release_year": 1982,
+      "discontinuation_year": 1984,
+      "generation": 2,
+      "type": "Home Console",
+      "total_official_games": 69
+    },
+    {
+      "console": "Nintendo Entertainment System (NES)",
+      "manufacturer": "Nintendo",
+      "release_year": 1985,
+      "discontinuation_year": 1995,
+      "generation": 3,
+      "type": "Home Console",
+      "total_official_games": 1378
+    },
+    {
+      "console": "Sega Master System",
+      "manufacturer": "Sega",
+      "release_year": 1986,
+      "discontinuation_year": 1996,
+      "generation": 3,
+      "type": "Home Console",
+      "total_official_games": 365
+    },
+    {
+      "console": "Atari 7800",
+      "manufacturer": "Atari",
+      "release_year": 1986,
+      "discontinuation_year": 1992,
+      "generation": 3,
+      "type": "Home Console",
+      "total_official_games": 59
+    },
+    {
+      "console": "Game Boy",
+      "manufacturer": "Nintendo",
+      "release_year": 1989,
+      "discontinuation_year": 2003,
+      "generation": 4,
+      "type": "Handheld",
+      "total_official_games": 1046
+    },
+    {
+      "console": "Sega Genesis",
+      "manufacturer": "Sega",
+      "release_year": 1988,
+      "discontinuation_year": 1997,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 878
+    },
+    {
+      "console": "TurboGrafx-16",
+      "manufacturer": "NEC",
+      "release_year": 1989,
+      "discontinuation_year": 1994,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 678
+    },
+    {
+      "console": "Neo Geo",
+      "manufacturer": "SNK",
+      "release_year": 1990,
+      "discontinuation_year": 2004,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 148
+    },
+    {
+      "console": "Super Nintendo Entertainment System (SNES)",
+      "manufacturer": "Nintendo",
+      "release_year": 1990,
+      "discontinuation_year": 2003,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 1757
+    },
+    {
+      "console": "Atari Lynx",
+      "manufacturer": "Atari",
+      "release_year": 1989,
+      "discontinuation_year": 1995,
+      "generation": 4,
+      "type": "Handheld",
+      "total_official_games": 76
+    },
+    {
+      "console": "Sega Game Gear",
+      "manufacturer": "Sega",
+      "release_year": 1990,
+      "discontinuation_year": 1997,
+      "generation": 4,
+      "type": "Handheld",
+      "total_official_games": 364
+    },
+    {
+      "console": "3DO Interactive Multiplayer",
+      "manufacturer": "The 3DO Company",
+      "release_year": 1993,
+      "discontinuation_year": 1996,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 284
+    },
+    {
+      "console": "Atari Jaguar",
+      "manufacturer": "Atari",
+      "release_year": 1993,
+      "discontinuation_year": 1996,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 67
+    },
+    {
+      "console": "PlayStation",
+      "manufacturer": "Sony",
+      "release_year": 1994,
+      "discontinuation_year": 2006,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 7918
+    },
+    {
+      "console": "Sega Saturn",
+      "manufacturer": "Sega",
+      "release_year": 1994,
+      "discontinuation_year": 1998,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 1263
+    },
+    {
+      "console": "Nintendo 64",
+      "manufacturer": "Nintendo",
+      "release_year": 1996,
+      "discontinuation_year": 2002,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 388
+    },
+    {
+      "console": "Virtual Boy",
+      "manufacturer": "Nintendo",
+      "release_year": 1995,
+      "discontinuation_year": 1996,
+      "generation": 5,
+      "type": "Handheld",
+      "total_official_games": 22
+    },
+    {
+      "console": "Game Boy Color",
+      "manufacturer": "Nintendo",
+      "release_year": 1998,
+      "discontinuation_year": 2003,
+      "generation": 5,
+      "type": "Handheld",
+      "total_official_games": 915
+    },
+    {
+      "console": "Sega Dreamcast",
+      "manufacturer": "Sega",
+      "release_year": 1998,
+      "discontinuation_year": 2001,
+      "generation": 6,
+      "type": "Home Console",
+      "total_official_games": 624
+    },
+    {
+      "console": "PlayStation 2",
+      "manufacturer": "Sony",
+      "release_year": 2000,
+      "discontinuation_year": 2013,
+      "generation": 6,
+      "type": "Home Console",
+      "total_official_games": 3874
+    },
+    {
+      "console": "Nintendo GameCube",
+      "manufacturer": "Nintendo",
+      "release_year": 2001,
+      "discontinuation_year": 2007,
+      "generation": 6,
+      "type": "Home Console",
+      "total_official_games": 651
+    },
+    {
+      "console": "Xbox",
+      "manufacturer": "Microsoft",
+      "release_year": 2001,
+      "discontinuation_year": 2006,
+      "generation": 6,
+      "type": "Home Console",
+      "total_official_games": 998
+    },
+    {
+      "console": "Game Boy Advance",
+      "manufacturer": "Nintendo",
+      "release_year": 2001,
+      "discontinuation_year": 2010,
+      "generation": 6,
+      "type": "Handheld",
+      "total_official_games": 1538
+    },
+    {
+      "console": "Neo Geo Pocket Color",
+      "manufacturer": "SNK",
+      "release_year": 1999,
+      "discontinuation_year": 2001,
+      "generation": 6,
+      "type": "Handheld",
+      "total_official_games": 95
+    },
+    {
+      "console": "WonderSwan Color",
+      "manufacturer": "Bandai",
+      "release_year": 2000,
+      "discontinuation_year": 2003,
+      "generation": 6,
+      "type": "Handheld",
+      "total_official_games": 109
+    },
+    {
+      "console": "Nintendo DS",
+      "manufacturer": "Nintendo",
+      "release_year": 2004,
+      "discontinuation_year": 2014,
+      "generation": 7,
+      "type": "Handheld",
+      "total_official_games": 1832
+    },
+    {
+      "console": "PlayStation Portable (PSP)",
+      "manufacturer": "Sony",
+      "release_year": 2004,
+      "discontinuation_year": 2014,
+      "generation": 7,
+      "type": "Handheld",
+      "total_official_games": 1925
+    },
+    {
+      "console": "Xbox 360",
+      "manufacturer": "Microsoft",
+      "release_year": 2005,
+      "discontinuation_year": 2016,
+      "generation": 7,
+      "type": "Home Console",
+      "total_official_games": 2154
+    },
+    {
+      "console": "PlayStation 3",
+      "manufacturer": "Sony",
+      "release_year": 2006,
+      "discontinuation_year": 2017,
+      "generation": 7,
+      "type": "Home Console",
+      "total_official_games": 3832
+    },
+    {
+      "console": "Nintendo Wii",
+      "manufacturer": "Nintendo",
+      "release_year": 2006,
+      "discontinuation_year": 2013,
+      "generation": 7,
+      "type": "Home Console",
+      "total_official_games": 1537
+    },
+    {
+      "console": "Nintendo 3DS",
+      "manufacturer": "Nintendo",
+      "release_year": 2011,
+      "discontinuation_year": 2020,
+      "generation": 8,
+      "type": "Handheld",
+      "total_official_games": 1394
+    },
+    {
+      "console": "PlayStation Vita",
+      "manufacturer": "Sony",
+      "release_year": 2011,
+      "discontinuation_year": 2019,
+      "generation": 8,
+      "type": "Handheld",
+      "total_official_games": 1455
+    },
+    {
+      "console": "Wii U",
+      "manufacturer": "Nintendo",
+      "release_year": 2012,
+      "discontinuation_year": 2017,
+      "generation": 8,
+      "type": "Home Console",
+      "total_official_games": 163
+    },
+    {
+      "console": "Ouya",
+      "manufacturer": "Ouya Inc.",
+      "release_year": 2013,
+      "discontinuation_year": 2015,
+      "generation": 8,
+      "type": "Home Console",
+      "total_official_games": 1042
+    },
+    {
+      "console": "Steam Machine",
+      "manufacturer": "Valve",
+      "release_year": 2015,
+      "discontinuation_year": 2018,
+      "generation": 8,
+      "type": "Home Console",
+      "total_official_games": 6000
+    },
+    {
+      "console": "Stadia",
+      "manufacturer": "Google",
+      "release_year": 2019,
+      "discontinuation_year": 2023,
+      "generation": 9,
+      "type": "Cloud Console",
+      "total_official_games": 278
+    },
+    {
+      "console": "Sega CD",
+      "manufacturer": "Sega",
+      "release_year": 1991,
+      "discontinuation_year": 1996,
+      "generation": 4,
+      "type": "Add-on",
+      "total_official_games": 210
+    },
+    {
+      "console": "Sega 32X",
+      "manufacturer": "Sega",
+      "release_year": 1994,
+      "discontinuation_year": 1996,
+      "generation": 5,
+      "type": "Add-on",
+      "total_official_games": 40
+    },
+    {
+      "console": "Nintendo 64DD",
+      "manufacturer": "Nintendo",
+      "release_year": 1999,
+      "discontinuation_year": 2001,
+      "generation": 5,
+      "type": "Add-on",
+      "total_official_games": 10
+    },
+    {
+      "console": "PC Engine SuperGrafx",
+      "manufacturer": "NEC",
+      "release_year": 1989,
+      "discontinuation_year": 1993,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 7
+    },
+    {
+      "console": "Apple Pippin",
+      "manufacturer": "Apple/Bandai",
+      "release_year": 1995,
+      "discontinuation_year": 1997,
+      "generation": 5,
+      "type": "Home Console",
+      "total_official_games": 18
+    },
+    {
+      "console": "Philips CD-i",
+      "manufacturer": "Philips",
+      "release_year": 1991,
+      "discontinuation_year": 1998,
+      "generation": 4,
+      "type": "Home Console",
+      "total_official_games": 670
+    }
+  ]
+}
